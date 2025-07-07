@@ -1,4 +1,10 @@
 {
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-07-07 23:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-07 23:15:10 +0000"
@@ -35,6 +41,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-07 23:32:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2025-07-07 23:17:15 +0000",
@@ -42,9 +54,27 @@
     },
     "done": false
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-07 23:32:24 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-07 23:15:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-07-07 23:32:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-07-07 23:32:15 +0000"
     },
     "done": true
   },
