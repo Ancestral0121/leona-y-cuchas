@@ -6816,3 +6816,61 @@ java.lang.Throwable: null
 [07Jul2025 23:02:31.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [07Jul2025 23:02:52.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Ice Bucket Challenge]
 [07Jul2025 23:03:07.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! 9.08261515319088,1.6643051839867553,3.963907413248762
+[07Jul2025 23:03:19.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[07Jul2025 23:03:35.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was blown up by Creeper
+[07Jul2025 23:03:35.494] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cucholindo was created at position [x:16, y:66, z:-915, dim:minecraft:overworld]
+[07Jul2025 23:03:35.524] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 23:03:37.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
+[07Jul2025 23:03:41.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -3.1787675219747857,1.0,9.620787600698463
+[07Jul2025 23:03:45.659] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[07Jul2025 23:03:45.878] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751929425857
+[07Jul2025 23:04:05.448] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[07Jul2025 23:04:05.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Cucholindo]
+[07Jul2025 23:04:19.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1053, l='ServerLevel[world]', x=6.51, y=80.00, z=755.81] died, message: 'Villager was slain by Zombie'
+[07Jul2025 23:04:19.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:04:22.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[07Jul2025 23:04:39.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [White Banner] to Kazuruki]
+[07Jul2025 23:04:49.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:04:49.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:04:50.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Spider
+[07Jul2025 23:04:50.746] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cucholindo was created at position [x:15, y:66, z:-913, dim:minecraft:overworld]
+[07Jul2025 23:04:50.764] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 23:04:52.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:04:58.898] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[07Jul2025 23:04:59.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Black Dye] to Kazuruki]
+[07Jul2025 23:04:59.376] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751929499348
+[07Jul2025 23:05:20.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -7.77771493293119,-1.0,6.426562926113661
+[07Jul2025 23:05:43.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1022, l='ServerLevel[world]', x=129.64, y=74.00, z=830.56] died, message: 'Villager was blown up by Creeper'
+[07Jul2025 23:06:03.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved wrongly!
+[07Jul2025 23:07:10.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -1.3899726229660985,-3.854893299348362,9.289879689803342
+[07Jul2025 23:07:33.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1021, l='ServerLevel[world]', x=43.51, y=82.80, z=700.30] died, message: 'Farmer was slain by Zombie'
+[07Jul2025 23:07:42.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/1133, l='ServerLevel[world]', x=33.30, y=68.00, z=804.51] died, message: 'Scribe was slain by Zombie'
+[07Jul2025 23:07:53.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:07:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:00.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:05.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:09.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:15.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:19.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:33.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:40.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:44.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:48.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:56.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:08:58.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1012, l='ServerLevel[world]', x=64.80, y=63.00, z=872.49] died, message: 'Armorer was slain by Zombie'
+[07Jul2025 23:09:00.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:09:03.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:09:08.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:09:36.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Blue Dye] to Kazuruki]
+[07Jul2025 23:09:44.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:09:49.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:09:49.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:10:08.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Glow Ink Sac] to Kazuruki]
+[07Jul2025 23:10:17.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! 3.7347239068983242,3.1661092609382138,-8.815442932100268
+[07Jul2025 23:10:41.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Cucholindo]
+[07Jul2025 23:12:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cucholindo> asd
+[07Jul2025 23:12:35.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Jul2025 23:13:08.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Mine? Mine? Mine?]
