@@ -1336,3 +1336,45 @@ java.lang.Throwable: null
 [07Jul2025 23:43:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Axe] to Kazuruki]
 [07Jul2025 23:44:03.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [07Jul2025 23:44:20.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[07Jul2025 23:44:39.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was shot by Skeleton
+[07Jul2025 23:44:39.133] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 23:44:39.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
+[07Jul2025 23:44:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> puto
+[07Jul2025 23:44:49.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 was slain by Kazuruki
+[07Jul2025 23:44:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [Your First Grave]
+[07Jul2025 23:44:49.038] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[07Jul2025 23:44:55.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported lion_799 to Kazuruki]
+[07Jul2025 23:45:00.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 443.500000, 83.500000, 3236.500000]
+[07Jul2025 23:46:10.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Cucholindo]
+[07Jul2025 23:46:31.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Jul2025 23:46:38.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Netherite Axe] to lion_799]
+[07Jul2025 23:46:50.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
+[07Jul2025 23:46:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Torch] to Kazuruki]
+[07Jul2025 23:46:57.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Torch] to Kazuruki]
+[07Jul2025 23:46:57.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [Stone Age]
+[07Jul2025 23:47:10.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5910ms or 118 ticks behind
+[07Jul2025 23:47:31.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[07Jul2025 23:47:53.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6916ms or 138 ticks behind
+[07Jul2025 23:48:16.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8544ms or 170 ticks behind
+[07Jul2025 23:48:39.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7723ms or 154 ticks behind
+[07Jul2025 23:49:00.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6235ms or 124 ticks behind
+[07Jul2025 23:49:21.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5734ms or 114 ticks behind
+[07Jul2025 23:49:42.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5857ms or 117 ticks behind
+[07Jul2025 23:50:02.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5628ms or 112 ticks behind
+[07Jul2025 23:50:23.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
+[07Jul2025 23:50:44.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5774ms or 115 ticks behind
+[07Jul2025 23:51:05.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5866ms or 117 ticks behind
+[07Jul2025 23:51:26.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6052ms or 121 ticks behind
+[07Jul2025 23:51:46.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5806ms or 116 ticks behind
+[07Jul2025 23:52:08.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6961ms or 139 ticks behind
+[07Jul2025 23:52:17.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Book of Monsters]
+[07Jul2025 23:52:29.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5482ms or 109 ticks behind
+[07Jul2025 23:52:49.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5469ms or 109 ticks behind
+[07Jul2025 23:53:10.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5502ms or 110 ticks behind
+[07Jul2025 23:53:32.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6800ms or 136 ticks behind
+[07Jul2025 23:53:52.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5624ms or 112 ticks behind
+[07Jul2025 23:54:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [Isn't It Iron Pick]
+[07Jul2025 23:54:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Pickaxe] to lion_799]
+[07Jul2025 23:54:13.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
+[07Jul2025 23:54:27.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Efficiency II to lion_799's item]
+[07Jul2025 23:54:33.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5348ms or 106 ticks behind

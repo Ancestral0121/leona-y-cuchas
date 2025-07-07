@@ -756,9 +756,10 @@
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
-      "requirement_2": "2025-07-07 22:25:03 +0000"
+      "requirement_2": "2025-07-07 22:25:03 +0000",
+      "requirement_1": "2025-07-07 23:39:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
@@ -2117,6 +2118,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-07 23:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-07 23:39:40 +0000"
     },
     "done": true
   },
