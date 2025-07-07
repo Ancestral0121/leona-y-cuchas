@@ -331,3 +331,366 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jul2025 22:43:16.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -4.5530089874943656,0.0,8.990304433067422
+[07Jul2025 22:43:38.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Vex
+[07Jul2025 22:43:38.724] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 22:44:11.291] [Worker-Main-18/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[07Jul2025 22:44:32.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has reached the goal [Chain Death]
+[07Jul2025 22:44:32.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Vex
+[07Jul2025 22:44:32.311] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 22:44:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Knowledge of Death]
+[07Jul2025 22:44:40.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has reached the goal [Here They Come]
+[07Jul2025 22:44:51.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-361, y=69, z=874} BlockPos{x=-362, y=69, z=876}
+[07Jul2025 22:44:54.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-366, y=71, z=875} BlockPos{x=-365, y=69, z=874}
+[07Jul2025 22:45:19.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was shot by Skeleton
+[07Jul2025 22:45:19.526] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[07Jul2025 22:45:35.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -426.500000, 77.000000, 866.500000]
+[07Jul2025 22:47:27.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Jul2025 22:47:39.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Not Today, Thank You]
+[07Jul2025 22:47:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was shot by Skeleton
+[07Jul2025 22:47:45.738] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[07Jul2025 22:48:04.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.29453107662792,0.0,-4.0649302880473215
+[07Jul2025 22:48:04.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.416760141788728,0.0,-4.209842596866338
+[07Jul2025 22:48:04.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.526766297519288,0.0,-4.340263671348453
+[07Jul2025 22:48:04.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.621689993030145,0.0,-4.460530292185126
+[07Jul2025 22:48:04.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.702764987397444,0.0,-4.571224304708096
+[07Jul2025 22:48:26.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[07Jul2025 22:48:29.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.287624800784698,0.0,-9.833257468836223
+[07Jul2025 22:48:29.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.3590243852488015,0.0,-10.224591377262868
+[07Jul2025 22:48:29.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.4298578384327527,0.0,-10.616247995964386
+[07Jul2025 22:48:29.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.500166641814559,0.0,-11.008197572201823
+[07Jul2025 22:48:29.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.5699919108243705,0.0,-11.400412695211458
+[07Jul2025 22:48:29.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.6393706488827036,0.0,-11.792868691581361
+[07Jul2025 22:48:29.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.7083399425650896,0.0,-12.185542725667347
+[07Jul2025 22:48:29.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.776933168857312,0.0,-12.578414245390093
+[07Jul2025 22:48:29.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.8451803670457707,0.0,-12.971464753878763
+[07Jul2025 22:48:29.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.9131085724875163,0.0,-13.364677596499462
+[07Jul2025 22:48:29.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.980742116537556,0.0,-13.758037787807382
+[07Jul2025 22:48:29.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.048106680912838,0.0,-14.151531218779041
+[07Jul2025 22:48:29.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.115221595659989,0.0,-14.54514580969186
+[07Jul2025 22:48:29.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.1821080413185143,0.0,-14.938870062947046
+[07Jul2025 22:48:29.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2487850808390704,0.0,-15.332693634431223
+[07Jul2025 22:48:29.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.3152698704111856,0.0,-15.726607214442538
+[07Jul2025 22:48:29.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.3815778506050265,0.0,-16.120602424249682
+[07Jul2025 22:48:29.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.4477229183989664,0.0,-16.5146717192693
+[07Jul2025 22:48:29.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.513721365036929,0.0,-16.908807690978335
+[07Jul2025 22:48:29.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.579584067743042,0.0,-17.303004293829815
+[07Jul2025 22:48:29.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.6453208164844284,0.0,-17.697256083106197
+[07Jul2025 22:48:29.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.7109442066605993,0.0,-18.09155754016365
+[07Jul2025 22:48:29.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.7764617892358103,0.0,-18.485904316621088
+[07Jul2025 22:48:29.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.8418841449726813,0.0,-18.88029188053747
+[07Jul2025 22:48:29.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.9072207965573114,0.0,-19.274716153165855
+[07Jul2025 22:48:29.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.972476529977712,0.0,-19.66917408203244
+[07Jul2025 22:48:29.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.037659437052213,0.0,-20.063662301512522
+[07Jul2025 22:48:29.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.1027768004171605,0.0,-20.458177782544112
+[07Jul2025 22:48:29.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.167831389550116,0.0,-20.852718421094835
+[07Jul2025 22:48:29.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.232829481875768,0.0,-21.24728170141219
+[07Jul2025 22:48:29.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.2977767270762115,0.0,-21.641865359318956
+[07Jul2025 22:48:29.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.362678209865152,0.0,-22.036467357055756
+[07Jul2025 22:48:29.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.427538506484865,0.0,-22.431085860639087
+[07Jul2025 22:48:29.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.492357950658288,0.0,-22.825719834156814
+[07Jul2025 22:48:29.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.557140627631014,0.0,-23.22036773061518
+[07Jul2025 22:48:29.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.621890214124022,0.0,-23.615028157719735
+[07Jul2025 22:48:29.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.686610019186048,0.0,-24.00969986240557
+[07Jul2025 22:48:29.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.751303020960904,0.0,-24.404381716914315
+[07Jul2025 22:48:29.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.8159718997779635,0.0,-24.799072706263416
+[07Jul2025 22:48:29.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.880619067933566,0.0,-25.193771916968615
+[07Jul2025 22:48:29.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.945246696494365,0.0,-25.588478526894107
+[07Jul2025 22:48:29.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.009856739420343,0.0,-25.983191796117694
+[07Jul2025 22:48:29.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.074450955275381,0.0,-26.377911058709458
+[07Jul2025 22:48:30.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [The Most Useful Key]
+[07Jul2025 22:48:30.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.9234179332935923,0.0,-17.330356390187433
+[07Jul2025 22:48:30.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.987985084858366,0.0,-17.725085901438263
+[07Jul2025 22:48:30.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.0525369135943947,0.0,-18.11982040025231
+[07Jul2025 22:48:30.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.1170749517849288,0.0,-18.514559387873135
+[07Jul2025 22:48:30.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.1816005784848187,0.0,-18.909302415419916
+[07Jul2025 22:48:30.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2461150348434558,0.0,-19.304049078899993
+[07Jul2025 22:48:30.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.3106194378952125,0.0,-19.698799014719953
+[07Jul2025 22:48:30.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.375114792971033,0.0,-20.093551895645703
+[07Jul2025 22:48:30.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.4396020048687035,0.0,-20.488307427166603
+[07Jul2025 22:48:30.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.504081887906267,0.0,-20.8830653442231
+[07Jul2025 22:48:30.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.568555174969873,0.0,-21.27782540826155
+[07Jul2025 22:48:30.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.6330225256570827,0.0,-21.672587404583737
+[07Jul2025 22:48:30.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.6974845336056887,0.0,-22.067351139961204
+[07Jul2025 22:48:30.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.761941733089685,0.0,-22.462116440488387
+[07Jul2025 22:48:30.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.826394604955624,0.0,-22.856883149650287
+[07Jul2025 22:48:30.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.8908435819654414,0.0,-23.251651126583397
+[07Jul2025 22:48:30.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.9552890536048153,0.0,-23.64642024451058
+[07Jul2025 22:48:30.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.019731370410909,0.0,-24.0411903893324
+[07Jul2025 22:48:30.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.084170847867085,0.0,-24.435961458359344
+[07Jul2025 22:48:31.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.148607769908438,0.0,-24.830733359170893
+[07Jul2025 22:48:31.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.213042392076488,0.0,-25.22550600858858
+[07Jul2025 22:48:31.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.27747494435863,0.0,-25.62027933175176
+[07Jul2025 22:48:31.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.341905633743494,0.0,-26.015053261285857
+[07Jul2025 22:48:31.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.406334646520861,0.0,-26.40982773655378
+[07Jul2025 22:48:31.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.470762150351533,0.0,-26.804602702982123
+[07Jul2025 22:48:32.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.535188296130201,0.0,-27.19937811145485
+[07Jul2025 22:48:32.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.599613219662075,0.0,-27.5941539177675
+[07Jul2025 22:48:32.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.664037043171902,0.0,-27.98893008213605
+[07Jul2025 22:48:32.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.728459876661901,0.0,-28.383706568754945
+[07Jul2025 22:48:32.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.792881819134067,0.0,-28.77848334539911
+[07Jul2025 22:48:32.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.857302959690202,0.0,-29.173260383066037
+[07Jul2025 22:48:32.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.9217233785219605,0.0,-29.568037655653427
+[07Jul2025 22:48:32.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.986143147801755,0.0,-29.96281513966923
+[07Jul2025 22:48:32.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.050562332484816,0.0,-30.357592813970598
+[07Jul2025 22:48:32.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.114980991030848,0.0,-30.752370659528964
+[07Jul2025 22:48:32.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.1793991760535505,0.0,-31.14714865921863
+[07Jul2025 22:48:32.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.243816934905254,0.0,-31.541926797626473
+[07Jul2025 22:48:32.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.3082343102030904,0.0,-31.936705060880655
+[07Jul2025 22:48:32.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.37265134030244,0.0,-32.33148343649654
+[07Jul2025 22:48:32.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.437068059723174,0.0,-32.72626191323798
+[07Jul2025 22:48:32.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.501484499533149,0.0,-33.12104048099238
+[07Jul2025 22:48:32.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.565210890590066,0.0,-33.51592551004822
+[07Jul2025 22:48:32.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.627000209604205,0.0,-33.91107533716607
+[07Jul2025 22:48:32.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.685162937844865,0.0,-34.30662865817993
+[07Jul2025 22:48:32.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.738360686948283,0.0,-34.7026175768616
+[07Jul2025 22:48:32.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.785556071613797,0.0,-35.09900176698591
+[07Jul2025 22:48:32.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.825973457241702,0.0,-35.49569452804809
+[07Jul2025 22:48:32.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.859050958555628,0.0,-35.892581798588196
+[07Jul2025 22:48:32.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.884411820896389,0.0,-36.28953661205051
+[07Jul2025 22:48:32.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.901826768476894,0.0,-36.68642841529399
+[07Jul2025 22:48:32.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.911195121419183,0.0,-37.083130974689055
+[07Jul2025 22:48:32.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.912520051087455,0.0,-37.47952691370364
+[07Jul2025 22:48:32.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.905886308491347,0.0,-37.87551016505327
+[07Jul2025 22:48:32.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.891443991287019,0.0,-38.27098761139206
+[07Jul2025 22:48:32.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.8700751797781265,0.0,-38.666031633631974
+[07Jul2025 22:48:32.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -5.843250379541416,0.0,-39.06084398471259
+[07Jul2025 22:48:37.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [A Fast Comeback]
+[07Jul2025 22:48:41.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.3706691809946392,0.0,-10.232445657349501
+[07Jul2025 22:48:41.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.3436362330506881,0.0,-10.62669316459045
+[07Jul2025 22:48:41.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.310075449953132,0.0,-11.020436165222947
+[07Jul2025 22:48:41.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.2703004109274616,0.0,-11.41364309020338
+[07Jul2025 22:48:41.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.2246275074944322,0.0,-11.8062911116034
+[07Jul2025 22:48:41.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.173371775831356,0.0,-12.198365082233636
+[07Jul2025 22:48:41.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.1168431784936104,0.0,-12.58985640994186
+[07Jul2025 22:48:41.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.0553469888424445,0.0,-12.98076290502317
+[07Jul2025 22:48:41.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.9898540094181101,0.0,-13.371270474308886
+[07Jul2025 22:48:41.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.3456591102345499,0.0,-10.227954576789159
+[07Jul2025 22:48:41.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.3765259042729667,0.0,-10.625407846926123
+[07Jul2025 22:48:41.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.40470101180793,0.0,-11.023113827627185
+[07Jul2025 22:48:41.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4303002084039633,0.0,-11.421048469725122
+[07Jul2025 22:48:41.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4534430283153483,0.0,-11.819189503121237
+[07Jul2025 22:48:41.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4742523909252725,0.0,-12.217516419065959
+[07Jul2025 22:48:41.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4928465937100555,0.0,-12.61601040950788
+[07Jul2025 22:48:41.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5093474450336828,0.0,-13.014654305057292
+[07Jul2025 22:48:41.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5238722435357488,0.0,-13.413432474449934
+[07Jul2025 22:48:41.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5365380639556179,0.0,-13.812330752690798
+[07Jul2025 22:48:41.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.547457944539815,0.0,-14.211336320504216
+[07Jul2025 22:48:41.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5567374558542895,0.0,-14.610437562311262
+[07Jul2025 22:48:41.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.564483116557568,0.0,-15.009624079970592
+[07Jul2025 22:48:41.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5707946291499866,0.0,-15.408886496528737
+[07Jul2025 22:48:41.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5757655614150679,0.0,-15.808216369002508
+[07Jul2025 22:48:41.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5794877939717935,0.0,-16.207606180663674
+[07Jul2025 22:48:42.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.2526785867446506,0.0,-10.372841459037033
+[07Jul2025 22:48:42.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.24735232024963238,0.0,-10.772572676882277
+[07Jul2025 22:48:42.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.24152719281661916,0.0,-11.172317459506957
+[07Jul2025 22:48:42.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.23524158953239294,0.0,-11.572074152409556
+[07Jul2025 22:48:42.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.22853005709058039,0.0,-11.971841262813484
+[07Jul2025 22:48:42.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.2214275211875929,0.0,-12.371617547802686
+[07Jul2025 22:48:42.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.21396541506578615,0.0,-12.771401885027444
+[07Jul2025 22:48:42.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.20547452007176048,0.0,-13.17116837570859
+[07Jul2025 22:48:42.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.19472570183154403,0.0,-13.570837354753792
+[07Jul2025 22:48:42.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.18005639538790774,0.0,-13.970226277569054
+[07Jul2025 22:48:42.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.15948341806452504,0.0,-14.368991362087002
+[07Jul2025 22:48:42.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.13080278240175858,0.0,-14.766566792723893
+[07Jul2025 22:48:42.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.09235558067408078,0.0,-15.162336825692961
+[07Jul2025 22:48:42.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.293728118950554,0.0,25.776812633830133
+[07Jul2025 22:48:42.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.3427005113137795,0.0,25.385969938992105
+[07Jul2025 22:48:42.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.382340094690818,0.0,24.99445821257393
+[07Jul2025 22:48:42.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.4150960842137863,0.0,24.60220436506546
+[07Jul2025 22:48:42.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.4430237086294255,0.0,24.20920606132836
+[07Jul2025 22:48:42.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.4678402722869919,0.0,23.815508864827535
+[07Jul2025 22:48:42.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.4909651277262412,0.0,23.42118919901523
+[07Jul2025 22:48:42.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.513563990184423,0.0,23.026341422839806
+[07Jul2025 22:48:42.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.5365892438211972,0.0,22.631068739352003
+[07Jul2025 22:48:42.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.5608011725024369,0.0,22.23547580693773
+[07Jul2025 22:48:42.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.586806353333003,0.0,21.83966481634002
+[07Jul2025 22:48:42.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.6150769919766503,0.0,21.443732008407864
+[07Jul2025 22:48:42.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.6459721875696403,0.0,21.047765735888362
+[07Jul2025 22:48:42.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.6797532764686025,0.0,20.651844938831772
+[07Jul2025 22:48:43.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.7166052193292671,0.0,20.25603951589204
+[07Jul2025 22:48:43.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.7566444463634525,0.0,19.86040945522845
+[07Jul2025 22:48:43.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.7999334715616726,0.0,19.465005616939095
+[07Jul2025 22:48:43.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.8464864635961646,0.0,19.069869431422575
+[07Jul2025 22:48:43.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.8962855360871913,0.0,18.67503503816627
+[07Jul2025 22:48:43.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.9492840751123026,0.0,18.280529299582042
+[07Jul2025 22:48:44.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.004726182310293,0.0,17.886230811220315
+[07Jul2025 22:48:44.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.0612886762929747,0.0,17.49192129963467
+[07Jul2025 22:48:46.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.117190289812555,0.0,17.09735589740521
+[07Jul2025 22:48:46.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.1709871213192855,0.0,16.702399182830447
+[07Jul2025 22:48:46.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.2215278328744716,0.0,16.30699455836944
+[07Jul2025 22:48:46.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.267907941561589,0.0,15.911140386728476
+[07Jul2025 22:48:46.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.309439116906816,0.0,15.51487219765184
+[07Jul2025 22:48:46.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.3456093474175077,0.0,15.118249076846013
+[07Jul2025 22:48:46.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.376755417106949,0.0,14.721313036750388
+[07Jul2025 22:48:46.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.4039010776368457,0.0,14.324080419711436
+[07Jul2025 22:48:46.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.428612120687859,0.0,13.926572054492567
+[07Jul2025 22:48:46.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.4528798789419,0.0,13.528865971250156
+[07Jul2025 22:48:46.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.4790115705296216,0.0,13.131161299617958
+[07Jul2025 22:48:46.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.509534760340358,0.0,12.7338451982408
+[07Jul2025 22:48:46.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.546423225784082,0.0,12.337385162717169
+[07Jul2025 22:48:46.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.5911865146254343,0.0,11.942279086111313
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.644934622813082,0.0,11.549016698563008
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.018265167967172147,0.0,15.946032843195695
+[07Jul2025 22:48:46.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.61705286109725,0.0,16.10464273290924
+[07Jul2025 22:48:46.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.400201425570657,0.0,15.78119616168911
+[07Jul2025 22:48:46.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.191346726271888,0.0,15.45250932091892
+[07Jul2025 22:48:46.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.99101609273987,0.0,15.118649148284305
+[07Jul2025 22:48:46.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.79956300770283,0.0,14.779762057390599
+[07Jul2025 22:48:46.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.61719416820506,0.0,14.43604966967223
+[07Jul2025 22:49:01.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.514991396305632,0.0,-10.204013483789197
+[07Jul2025 22:49:01.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.574385589814895,0.0,-10.598352701663885
+[07Jul2025 22:49:01.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.6293471420164707,0.0,-10.993229597017901
+[07Jul2025 22:49:01.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.6797021732159436,0.0,-11.388608898156804
+[07Jul2025 22:49:01.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.7253591718729382,0.0,-11.784448835800276
+[07Jul2025 22:49:01.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.7662894020366906,0.0,-12.180704445247514
+[07Jul2025 22:49:01.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.8025168744618298,0.0,-12.57732983797149
+[07Jul2025 22:49:01.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.04706151515580359,0.0,-10.261920892513686
+[07Jul2025 22:49:01.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.13732194373960738,0.0,-10.646460562517376
+[07Jul2025 22:49:01.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.23360820350781353,0.0,-11.029606219102035
+[07Jul2025 22:49:01.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.33561213672309975,0.0,-11.411376318367985
+[07Jul2025 22:49:01.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.443023657990139,0.0,-11.79179860942304
+[07Jul2025 22:49:01.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.555538257903649,0.0,-12.170906854423407
+[07Jul2025 22:49:01.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.6728601549070845,0.0,-12.548739169286236
+[07Jul2025 22:49:01.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.7946980688149665,0.0,-12.925339518013772
+[07Jul2025 22:49:01.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.9207719269583379,0.0,-13.300754363719363
+[07Jul2025 22:49:01.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.050811855191526,0.0,-13.675032664585402
+[07Jul2025 22:49:01.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -1.184557251171853,0.0,-14.048225851599085
+[07Jul2025 22:49:01.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9006786808944014,0.0,15.899698907349162
+[07Jul2025 22:49:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9006786808944014,0.0,15.899698907349162
+[07Jul2025 22:49:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9006786808944014,0.0,15.899698907349162
+[07Jul2025 22:49:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9006786808944014,0.0,15.899698907349162
+[07Jul2025 22:49:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9006786808944014,0.0,15.899698907349162
+[07Jul2025 22:49:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9006786808944014,0.0,15.899698907349162
+[07Jul2025 22:49:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9006786808944014,0.0,15.899698907349162
+[07Jul2025 22:49:06.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.62161990330128,0.0,-9.98540585972556
+[07Jul2025 22:49:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.678417084793338,0.0,-10.380029363434815
+[07Jul2025 22:49:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.735187453155177,0.0,-10.774789050561495
+[07Jul2025 22:49:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.79217276206802,0.0,-11.169636437768716
+[07Jul2025 22:49:06.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.8495638459801285,0.0,-11.564530549911709
+[07Jul2025 22:49:06.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.907513345151173,0.0,-11.959436394358036
+[07Jul2025 22:49:06.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.9661395641875288,0.0,-12.354324642133008
+[07Jul2025 22:49:06.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.0255299423956643,0.0,-12.749171307422927
+[07Jul2025 22:49:06.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.085747954078826,0.0,-13.143956792301054
+[07Jul2025 22:49:06.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.1468355311149594,0.0,-13.538665608126308
+[07Jul2025 22:49:06.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2088190169958466,0.0,-13.933285439348637
+[07Jul2025 22:49:06.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.271710740567272,0.0,-14.327806923057409
+[07Jul2025 22:49:06.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.335514206114169,0.0,-14.722222746495078
+[07Jul2025 22:49:06.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.4002212137393997,0.0,-15.116528198275759
+[07Jul2025 22:49:06.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.4658130432863885,0.0,-15.51072098275381
+[07Jul2025 22:49:06.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.532269053337842,0.0,-15.904799614993493
+[07Jul2025 22:49:06.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.5995631103329515,0.0,-16.298764073580145
+[07Jul2025 22:49:06.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.6676641443011846,0.0,-16.692615698971537
+[07Jul2025 22:49:06.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.7365404134284432,0.0,-17.086356349505422
+[07Jul2025 22:49:06.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.8061595731040967,0.0,-17.479988368237997
+[07Jul2025 22:49:06.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.876484976451408,0.0,-17.873515286980677
+[07Jul2025 22:49:06.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.9474836333659624,0.0,-18.266940243385463
+[07Jul2025 22:49:06.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.019118321148895,0.0,-18.660267514202275
+[07Jul2025 22:49:06.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.091355534715518,0.0,-19.05350092242894
+[07Jul2025 22:49:06.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.164161353687561,0.0,-19.44664463146971
+[07Jul2025 22:49:06.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.237501485319555,0.0,-19.839703122270492
+[07Jul2025 22:49:06.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.311341302666875,0.0,-20.23268116901528
+[07Jul2025 22:49:06.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.38564963961754,0.0,-20.62558305356839
+[07Jul2025 22:49:06.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.460398444808845,0.0,-21.01841262588232
+[07Jul2025 22:49:06.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.535558710403166,0.0,-21.411174095972285
+[07Jul2025 22:49:06.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.611104328416005,0.0,-21.803871245401282
+[07Jul2025 22:49:06.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.687008041912691,0.0,-22.196508233809865
+[07Jul2025 22:49:06.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.763245318721374,0.0,-22.58908879742384
+[07Jul2025 22:49:06.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.839794078956629,0.0,-22.98161629884636
+[07Jul2025 22:49:06.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -4.916630690972866,0.0,-23.374094520654097
+[07Jul2025 22:49:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[07Jul2025 22:49:14.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Cucholindo]
+[07Jul2025 22:49:18.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.393165866178066,0.0,-9.04776111389559
+[07Jul2025 22:49:18.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.503179658683166,0.0,-9.4284898359398
+[07Jul2025 22:49:18.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.611120678395423,0.0,-9.810136442512324
+[07Jul2025 22:49:18.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.717143859520888,0.0,-10.192621095869718
+[07Jul2025 22:49:18.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.821396108323086,0.0,-10.575870176257197
+[07Jul2025 22:49:18.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.924013369451217,0.0,-10.959816535552818
+[07Jul2025 22:49:18.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.025121725827262,0.0,-11.344398853829347
+[07Jul2025 22:49:18.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.124838386681461,0.0,-11.729561075161094
+[07Jul2025 22:49:20.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5081226802857657,0.0,-10.204587378201765
+[07Jul2025 22:49:20.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4849955506670653,0.0,-10.59895538345971
+[07Jul2025 22:49:20.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4553011293435532,0.0,-10.992888442239206
+[07Jul2025 22:49:20.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4193524838869394,0.0,-11.386350208776792
+[07Jul2025 22:49:20.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2106062745484962,0.0,21.44907749433652
+[07Jul2025 22:49:20.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.257912303816454,0.0,21.058324868041893
+[07Jul2025 22:49:20.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.2917124547604715,0.0,20.6676219536716
+[07Jul2025 22:49:20.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.313503295691902,0.0,20.276931239621256
+[07Jul2025 22:49:20.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.3246206162011163,0.0,19.886221953130644
+[07Jul2025 22:49:21.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.326251728520333,0.0,19.49547007557782
+[07Jul2025 22:49:21.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.3194540349654176,0.0,19.10465673201727
+[07Jul2025 22:49:21.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -3.305164244280178,0.0,18.713768373441418
+[07Jul2025 22:50:03.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 71.500000, 63.500000, 831.500000]
+[07Jul2025 22:50:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -642.500000, 71.500000, 986.500000]
+[07Jul2025 22:50:11.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[07Jul2025 22:50:30.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Jul2025 22:50:35.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 22:50:48.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[07Jul2025 22:51:02.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Funeral Theft]
+[07Jul2025 22:51:09.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has completed the challenge [Free Willy]
+[07Jul2025 22:51:17.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Where Is The Stone Pen?]
+[07Jul2025 22:51:25.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo drowned
+[07Jul2025 22:51:25.110] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 22:52:19.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[07Jul2025 22:52:41.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[07Jul2025 22:52:59.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind

@@ -89,6 +89,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-07-07 22:42:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2025-07-07 22:38:23 +0000"
@@ -101,9 +113,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-07-07 22:38:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -128,6 +152,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-07 22:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -191,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2025-07-07 22:25:03 +0000"
@@ -239,9 +275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -257,6 +305,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-07-07 22:25:03 +0000"
@@ -269,6 +323,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-07-07 22:38:23 +0000"
@@ -278,6 +338,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 22:44:40 +0000"
     },
     "done": true
   },
@@ -299,9 +365,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-07-07 22:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -320,6 +398,18 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-07 22:38:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 22:48:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 22:44:40 +0000"
     },
     "done": true
   },
@@ -437,6 +527,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-07-07 22:25:03 +0000"
@@ -464,6 +560,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-07-07 22:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -497,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-07 22:48:19 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/hunter_table": {
     "criteria": {
       "has_fang": "2025-07-07 22:29:17 +0000"
@@ -527,9 +635,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-07 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 22:42:49 +0000"
     },
     "done": true
   },
@@ -545,6 +665,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
@@ -554,6 +680,12 @@
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-07-07 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -584,9 +716,10 @@
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2025-07-07 22:25:03 +0000",
+      "requirement_3": "2025-07-07 22:42:04 +0000",
       "requirement_1": "2025-07-07 22:38:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
@@ -660,6 +793,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-07 22:42:49 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/hunter/crucifix": {
     "criteria": {
       "stick": "2025-07-07 22:35:04 +0000"
@@ -693,6 +832,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-07 22:44:50 +0000"
     },
     "done": true
   },
@@ -777,6 +922,18 @@
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-07-07 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -912,6 +1069,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_lance": {
     "criteria": {
       "has_wood": "2025-07-07 22:38:23 +0000"
@@ -999,6 +1162,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-07 22:24:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -1092,6 +1261,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:35:35 +0000"
@@ -1102,9 +1283,16 @@
     "criteria": {
       "coniferous_forest": "2025-07-07 22:23:28 +0000",
       "seasonal_forest": "2025-07-07 22:36:55 +0000",
-      "gravel_beach": "2025-07-07 22:35:36 +0000"
+      "gravel_beach": "2025-07-07 22:35:36 +0000",
+      "ominous_woods": "2025-07-07 22:38:55 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/misc/vampire/blood_infused_enhanced_iron_ingot": {
     "criteria": {
@@ -1190,9 +1378,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 22:44:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-07 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -1223,6 +1429,24 @@
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -1259,6 +1483,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-07 22:23:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -1337,6 +1567,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-07 22:24:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -1586,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2025-07-07 22:48:14 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2025-07-07 22:38:23 +0000"
@@ -1595,6 +1843,12 @@
   "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
       "has_stick": "2025-07-07 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-07 22:47:20 +0000"
     },
     "done": true
   },
@@ -1639,6 +1893,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-07 22:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-07 22:40:58 +0000"
     },
     "done": true
   },
