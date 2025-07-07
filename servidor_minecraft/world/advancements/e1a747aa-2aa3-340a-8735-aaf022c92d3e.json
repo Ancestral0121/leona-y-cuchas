@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-07-07 22:51:09 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/item_med_chair": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-07 22:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-07 22:47:20 +0000"
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-07 22:51:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:35:35 +0000"
@@ -356,6 +374,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-07 22:51:10 +0000"
     },
     "done": true
   },
@@ -695,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-07 22:52:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_rapier": {
     "criteria": {
       "has_wood": "2025-07-07 22:38:23 +0000"
@@ -736,6 +766,12 @@
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-07-07 22:55:26 +0000"
     },
     "done": true
   },
@@ -829,6 +865,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-07-07 22:51:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 22:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
@@ -892,6 +940,12 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-07 22:25:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-07 22:51:10 +0000"
     },
     "done": true
   },
@@ -1141,6 +1195,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-07 22:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:25:03 +0000"
@@ -1281,7 +1341,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "field": "2025-07-07 22:48:58 +0000",
       "coniferous_forest": "2025-07-07 22:23:28 +0000",
+      "forested_field": "2025-07-07 22:49:12 +0000",
       "seasonal_forest": "2025-07-07 22:36:55 +0000",
       "gravel_beach": "2025-07-07 22:35:36 +0000",
       "ominous_woods": "2025-07-07 22:38:55 +0000"
@@ -1369,6 +1431,12 @@
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-07 22:52:15 +0000"
     },
     "done": true
   },
@@ -1507,6 +1575,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-07 22:35:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-07 22:51:17 +0000"
     },
     "done": true
   },
@@ -1830,7 +1904,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2025-07-07 22:48:14 +0000"
+      "minecraft:cold_ocean": "2025-07-07 22:48:14 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-07 22:52:40 +0000",
+      "minecraft:frozen_ocean": "2025-07-07 22:55:55 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-07 22:52:55 +0000"
     },
     "done": false
   },
@@ -1881,6 +1958,12 @@
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_fangs": "2025-07-07 22:29:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-07 22:56:42 +0000"
     },
     "done": true
   },

@@ -49,7 +49,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-07-07 22:53:13 +0000",
+      "maple_woods": "2025-07-07 22:52:37 +0000",
       "field": "2025-07-07 21:14:45 +0000",
+      "bog": "2025-07-07 22:52:09 +0000",
       "coniferous_forest": "2025-07-07 21:19:13 +0000",
       "forested_field": "2025-07-07 21:18:05 +0000",
       "seasonal_forest": "2025-07-07 21:20:29 +0000",
@@ -68,9 +71,14 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-07 22:46:05 +0000",
       "minecraft:taiga": "2025-07-07 22:44:14 +0000",
+      "minecraft:beach": "2025-07-07 22:50:21 +0000",
       "minecraft:river": "2025-07-07 21:19:30 +0000",
+      "minecraft:swamp": "2025-07-07 22:50:42 +0000",
+      "minecraft:cold_ocean": "2025-07-07 22:49:15 +0000",
       "minecraft:forest": "2025-07-07 22:41:07 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-07-07 22:47:10 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-07-07 22:47:10 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-07 22:55:14 +0000",
+      "minecraft:plains": "2025-07-07 22:55:02 +0000"
     },
     "done": false
   },
@@ -194,6 +202,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 22:59:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-07 22:47:39 +0000"
@@ -248,6 +262,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-07-07 22:59:16 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-07-07 22:27:55 +0000"
@@ -299,6 +319,12 @@
   "spartanweaponry:recipes/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-07-07 22:59:16 +0000"
     },
     "done": true
   },
@@ -374,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-07-07 22:59:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:31:04 +0000"
@@ -432,6 +464,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-07-07 22:31:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 22:52:54 +0000"
     },
     "done": true
   },
@@ -1061,6 +1099,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 22:51:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:33:25 +0000"
@@ -1376,6 +1420,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-07 22:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-07-07 22:59:16 +0000"
     },
     "done": true
   },
@@ -1736,6 +1786,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-07 22:38:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 22:52:54 +0000"
     },
     "done": true
   },

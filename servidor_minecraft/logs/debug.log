@@ -6064,3 +6064,755 @@ java.lang.Throwable: null
 [07Jul2025 22:52:19.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
 [07Jul2025 22:52:41.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [07Jul2025 22:52:59.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[07Jul2025 22:53:08.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.2485460548456615,0.0,-10.323001790197623
+[07Jul2025 22:53:08.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.2956100657800391,0.0,-10.720210722184333
+[07Jul2025 22:53:08.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.3426470810263424,0.0,-11.117424096130264
+[07Jul2025 22:53:08.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.3896598001539644,0.0,-11.514641467839397
+[07Jul2025 22:53:08.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4366506527753984,0.0,-11.91186243753532
+[07Jul2025 22:53:08.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4836218255418032,0.0,-12.309086645419256
+[07Jul2025 22:53:08.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.530575286439074,0.0,-12.706313767672327
+[07Jul2025 22:53:08.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.577512806654596,0.0,-13.103543512857584
+[07Jul2025 22:53:08.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.6244359802569477,0.0,-13.5007756186817
+[07Jul2025 22:53:08.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.6713462419077416,0.0,-13.898009849080722
+[07Jul2025 22:53:08.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.718244882802452,0.0,-14.295245991597142
+[07Jul2025 22:53:08.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.765133065016954,0.0,-14.69248385501919
+[07Jul2025 22:53:08.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.8120118344195646,0.0,-15.089723267256204
+[07Jul2025 22:53:08.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.8588821322916544,0.0,-15.486964073426691
+[07Jul2025 22:53:08.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9057448057864974,0.0,-15.884206134137287
+[07Jul2025 22:53:08.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9526006173419717,0.0,-16.28144932393394
+[07Jul2025 22:53:08.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.9994502531522187,0.0,-16.678693529908003
+[07Jul2025 22:53:08.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.0462943307918806,0.0,-17.075938650441685
+[07Jul2025 22:53:08.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.0931334060781808,0.0,-17.473184594079044
+[07Jul2025 22:53:08.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.1399679792465065,0.0,-17.87043127850967
+[07Jul2025 22:53:08.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.186798500508843,0.0,-18.267678629654256
+[07Jul2025 22:53:08.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.233625375055823,0.0,-18.66492658084138
+[07Jul2025 22:53:08.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.280448967559124,0.0,-19.062175072066736
+[07Jul2025 22:53:08.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.3272696062231546,0.0,-19.459424049326515
+[07Jul2025 22:53:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.374087586431898,0.0,-19.856673464017263
+[07Jul2025 22:53:08.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.4209031740309968,0.0,-20.253923272395866
+[07Jul2025 22:53:08.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.4677166082814495,0.0,-20.65117343509354
+[07Jul2025 22:53:08.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.5145281045181775,0.0,-21.04842391667836
+[07Jul2025 22:53:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.561337856542565,0.0,-21.445674685261565
+[07Jul2025 22:53:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.6081460387759137,0.0,-21.84292571214337
+[07Jul2025 22:53:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.6549528081973506,0.0,-22.240176971493895
+[07Jul2025 22:53:08.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.7017583060881236,0.0,-22.63742844006623
+[07Jul2025 22:53:08.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.7485626596013333,0.0,-23.034680096938246
+[07Jul2025 22:53:08.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.795365983174719,0.0,-23.431931923279933
+[07Jul2025 22:53:08.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.8421683798023594,0.0,-23.829183902144337
+[07Jul2025 22:53:08.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.888969942178761,0.0,-24.226436018279173
+[07Jul2025 22:53:08.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.7343187050277038,0.0,-14.697890464236082
+[07Jul2025 22:53:08.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.7811188408346652,0.0,-15.095142815103316
+[07Jul2025 22:53:08.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.827918368472524,0.0,-15.492395266040717
+[07Jul2025 22:53:08.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.8747173487582813,0.0,-15.889647807041229
+[07Jul2025 22:53:18.732] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/68319, l='ServerLevel[world]', x=210.50, y=56.00, z=-600.50]
+[07Jul2025 22:53:18.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4417ms or 88 ticks behind
+[07Jul2025 22:53:31.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/69230, l='ServerLevel[world]', x=211.50, y=49.00, z=-580.50]
+[07Jul2025 22:53:32.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/69353, l='ServerLevel[world]', x=209.50, y=50.00, z=-605.50]
+[07Jul2025 22:53:36.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[07Jul2025 22:53:55.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3854ms or 77 ticks behind
+[07Jul2025 22:54:12.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[07Jul2025 22:54:16.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 22:54:16.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 22:54:23.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.3866060587203606,0.0,-10.12240344728184
+[07Jul2025 22:54:23.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.478426148861047,0.0,-10.511721711175937
+[07Jul2025 22:54:23.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.5702468420728337,0.0,-10.901039866807878
+[07Jul2025 22:54:23.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.6620680780485486,0.0,-11.290357925003946
+[07Jul2025 22:54:23.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -2.7538898025118215,0.0,-11.679675895507671
+[07Jul2025 22:54:29.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[07Jul2025 22:54:47.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.4510749281545827,0.0,-10.128951317651172
+[07Jul2025 22:54:47.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.5852354310375745,0.0,-10.502048449377071
+[07Jul2025 22:54:47.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.7228668430113316,0.0,-10.874096448992304
+[07Jul2025 22:54:47.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 1.8637332394717987,0.0,-11.245148250757438
+[07Jul2025 22:54:47.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.0076082625630534,0.0,-11.615257713015126
+[07Jul2025 22:54:47.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.1542811401081963,0.0,-11.98447634438412
+[07Jul2025 22:54:47.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.303551692323481,0.0,-12.352855244914736
+[07Jul2025 22:54:47.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.455232763175843,0.0,-12.720443552521374
+[07Jul2025 22:54:47.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.609148936633858,0.0,-13.08728868389926
+[07Jul2025 22:54:47.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.7651353794311717,0.0,-13.453436547625188
+[07Jul2025 22:54:47.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 2.923036799553529,0.0,-13.818931721046283
+[07Jul2025 22:54:47.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.082709952908033,0.0,-14.18381592937385
+[07Jul2025 22:54:47.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.2440190019503348,0.0,-14.548130044530808
+[07Jul2025 22:54:47.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.4068382265111836,0.0,-14.911912490374561
+[07Jul2025 22:54:47.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5710510195091842,0.0,-15.275199502404575
+[07Jul2025 22:54:47.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.7365489793671713,0.0,-15.638025361499786
+[07Jul2025 22:54:47.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.903234531629721,0.0,-16.000420890648
+[07Jul2025 22:54:47.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.071012974952794,0.0,-16.362417213101025
+[07Jul2025 22:54:47.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.239795632235484,0.0,-16.72404402361599
+[07Jul2025 22:54:47.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.409502690363865,0.0,-17.085328040023114
+[07Jul2025 22:54:47.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.580062311949291,0.0,-17.44629329346776
+[07Jul2025 22:54:47.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.75140297204581,0.0,-17.806964820620806
+[07Jul2025 22:54:47.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.923463727333399,0.0,-18.167363440851886
+[07Jul2025 22:54:47.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.096186294107895,0.0,-18.527509594050798
+[07Jul2025 22:54:47.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.269514784181979,0.0,-18.887423389751348
+[07Jul2025 22:54:47.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.443398896325618,0.0,-19.247122919083267
+[07Jul2025 22:54:47.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.617793357570463,0.0,-19.606624460337116
+[07Jul2025 22:54:47.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.792657420383364,0.0,-19.965942663974374
+[07Jul2025 22:54:47.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.967950982855768,0.0,-20.325092429043252
+[07Jul2025 22:54:47.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.143637951408266,0.0,-20.68408716096178
+[07Jul2025 22:54:47.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.319685843682919,0.0,-21.04293892833107
+[07Jul2025 22:54:47.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.496065421833066,0.0,-21.401658589166345
+[07Jul2025 22:54:47.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.6727469463929765,0.0,-21.760257633040283
+[07Jul2025 22:54:47.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.849703649981564,0.0,-22.11874640056749
+[07Jul2025 22:54:47.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.0269148692235035,0.0,-22.4771324809426
+[07Jul2025 22:54:47.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.204358579814482,0.0,-22.83542442179896
+[07Jul2025 22:54:47.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.3820149580184875,0.0,-23.193629916006785
+[07Jul2025 22:54:47.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.559866164336199,0.0,-23.55175588342331
+[07Jul2025 22:54:47.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.737892715951602,0.0,-23.909810276729786
+[07Jul2025 22:54:47.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.916080505597847,0.0,-24.267798532254574
+[07Jul2025 22:54:47.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.094416836735093,0.0,-24.625725542693544
+[07Jul2025 22:54:47.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.272886855210686,0.0,-24.983597432556508
+[07Jul2025 22:54:47.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.451480617692027,0.0,-25.34141799281838
+[07Jul2025 22:54:47.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.630185749775592,0.0,-25.699192356440562
+[07Jul2025 22:54:47.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.808994539902926,0.0,-26.05692341827853
+[07Jul2025 22:54:47.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.987896622267158,0.0,-26.414615508512043
+[07Jul2025 22:54:47.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.166882667642426,0.0,-26.772272524302252
+[07Jul2025 22:54:47.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.34594770699266,0.0,-27.129896248284922
+[07Jul2025 22:54:47.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.525083840918512,0.0,-27.487490009641533
+[07Jul2025 22:54:47.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.704283959960662,0.0,-27.845056804635533
+[07Jul2025 22:54:47.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.883541665606003,0.0,-28.202599329903933
+[07Jul2025 22:54:47.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.06285462273462,0.0,-28.560118287610294
+[07Jul2025 22:54:47.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.242217306196892,0.0,-28.91761603451141
+[07Jul2025 22:54:47.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.421624743358223,0.0,-29.27509469168831
+[07Jul2025 22:54:47.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.601072458847682,0.0,-29.63255616811375
+[07Jul2025 22:54:47.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.780556424831502,0.0,-29.990002181863474
+[07Jul2025 22:54:47.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.960073016259344,0.0,-30.347434279205345
+[07Jul2025 22:54:47.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.139622397853088,0.0,-30.70485213069651
+[07Jul2025 22:54:47.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.319201290595402,0.0,-31.062257160922172
+[07Jul2025 22:54:47.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.498806743370722,0.0,-31.419650652009295
+[07Jul2025 22:54:47.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.678436100175134,0.0,-31.777033757872005
+[07Jul2025 22:54:47.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.858086970605086,0.0,-32.13440751703297
+[07Jul2025 22:54:47.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.037757203297588,0.0,-32.49177286416261
+[07Jul2025 22:54:47.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.2174448620259,0.0,-32.84913064046418
+[07Jul2025 22:54:47.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.39714820418601,0.0,-33.20648160302062
+[07Jul2025 22:54:47.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.57686566143434,0.0,-33.563826433206714
+[07Jul2025 22:54:48.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.435963999802425,0.0,-24.166412738680833
+[07Jul2025 22:54:48.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.615079450782673,0.0,-24.524055435967853
+[07Jul2025 22:54:48.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.792436890994054,0.0,-24.882527068676723
+[07Jul2025 22:54:48.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.966465116867596,0.0,-25.24246709938609
+[07Jul2025 22:54:48.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.135896030973583,0.0,-25.604307956001207
+[07Jul2025 22:54:48.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.299727057771008,0.0,-25.968322657898966
+[07Jul2025 22:54:48.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.457191497558995,0.0,-26.334661443321806
+[07Jul2025 22:54:48.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.607718433988225,0.0,-26.703384316798633
+[07Jul2025 22:54:48.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.750909757790964,0.0,-27.074483416507633
+[07Jul2025 22:54:48.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.886510818921977,0.0,-27.447902563758475
+[07Jul2025 22:54:48.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.014386846569607,0.0,-27.823551895918058
+[07Jul2025 22:54:48.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.134501077103096,0.0,-28.201319296334646
+[07Jul2025 22:54:48.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.246902217126433,0.0,-28.581078330610012
+[07Jul2025 22:54:48.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.351705228618357,0.0,-28.9626953035621
+[07Jul2025 22:54:48.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.44907759577228,0.0,-29.346034146454144
+[07Jul2025 22:54:48.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.53923062152495,0.0,-29.730959768691832
+[07Jul2025 22:54:48.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.622407652609695,0.0,-30.11734079868063
+[07Jul2025 22:54:48.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.698873391300424,0.0,-30.505051447099845
+[07Jul2025 22:54:48.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.768908046907029,0.0,-30.893972546824784
+[07Jul2025 22:54:48.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.83280586662022,0.0,-31.283992138678855
+[07Jul2025 22:54:48.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.89086611839383,0.0,-31.675005950182708
+[07Jul2025 22:54:48.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.943388788228447,0.0,-32.06691746879949
+[07Jul2025 22:54:48.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.990670694683445,0.0,-32.45963782159117
+[07Jul2025 22:54:48.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.033005818207585,0.0,-32.85308552907475
+[07Jul2025 22:54:48.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.070681756735212,0.0,-33.247186190558864
+[07Jul2025 22:54:48.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.103976532277557,0.0,-33.64187207056273
+[07Jul2025 22:54:48.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.133163383381486,0.0,-34.03708177874694
+[07Jul2025 22:54:48.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.158499739663114,0.0,-34.43275965030023
+[07Jul2025 22:54:48.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.180369718093345,0.0,-34.823857294119875
+[07Jul2025 22:54:48.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.199012620507233,0.0,-35.21082970815257
+[07Jul2025 22:54:48.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.214653889931299,0.0,-35.59408638681441
+[07Jul2025 22:54:48.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.227509847770477,0.0,-35.97399607996101
+[07Jul2025 22:54:48.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.237778543612478,0.0,-36.35089058049732
+[07Jul2025 22:54:48.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.245648287815754,0.0,-36.72506871809662
+[07Jul2025 22:54:48.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.251298623570278,0.0,-37.09679970767854
+[07Jul2025 22:54:48.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.254894496694874,0.0,-37.46632588364275
+[07Jul2025 22:54:48.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.256587714559942,0.0,-37.83386540282265
+[07Jul2025 22:54:48.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.256524963708785,0.0,-38.199614978891645
+[07Jul2025 22:54:48.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.254228490445541,0.0,-38.56371783596626
+[07Jul2025 22:54:48.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.248727725261062,0.0,-38.92624153511758
+[07Jul2025 22:54:48.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.238668025530558,0.0,-39.28713796127033
+[07Jul2025 22:54:48.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.222408080489743,0.0,-39.64619485404171
+[07Jul2025 22:54:48.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.198112989489005,0.0,-40.00298623993433
+[07Jul2025 22:54:48.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.16384854681894,0.0,-40.35682871165534
+[07Jul2025 22:54:48.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.117668028682942,0.0,-40.706744947978336
+[07Jul2025 22:54:48.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 14.058221456154968,0.0,-41.0517554084214
+[07Jul2025 22:54:48.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.98465139228341,0.0,-41.390940054127555
+[07Jul2025 22:54:48.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.896500206293581,0.0,-41.72347742901036
+[07Jul2025 22:54:48.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.790264862840502,0.0,-42.05236559961452
+[07Jul2025 22:54:48.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.666685089172574,0.0,-42.376962020808946
+[07Jul2025 22:54:48.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 13.527054561689908,0.0,-42.69725804916959
+[07Jul2025 22:54:56.499] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[07Jul2025 22:55:24.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:55:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Sunken in the Sea]
+[07Jul2025 22:55:28.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[07Jul2025 22:55:29.088] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[07Jul2025 22:55:31.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.2648255733181486,0.0,-9.738167062874027
+[07Jul2025 22:55:31.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.311971631830602,0.0,-10.131207507181443
+[07Jul2025 22:55:31.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.3543187144846343,0.0,-10.524943807386308
+[07Jul2025 22:55:31.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.392139634101909,0.0,-10.919305405581554
+[07Jul2025 22:55:31.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.425702938026518,0.0,-11.314228006165422
+[07Jul2025 22:55:31.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.4552695011672654,0.0,-11.709653210381703
+[07Jul2025 22:55:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.4810894585499454,0.0,-12.105528083096715
+[07Jul2025 22:55:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.503403278432529,0.0,-12.501804781525834
+[07Jul2025 22:55:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5224427270614456,0.0,-12.898440198735216
+[07Jul2025 22:55:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5384240700136615,0.0,-13.295395411825439
+[07Jul2025 22:55:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.551557287514356,0.0,-13.692635557825952
+[07Jul2025 22:55:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5620390344622592,0.0,-14.090129289866809
+[07Jul2025 22:55:31.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5700539717984157,0.0,-14.487848473996564
+[07Jul2025 22:55:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5757759647380567,0.0,-14.885767916319537
+[07Jul2025 22:55:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5793691609464986,0.0,-15.283865106242956
+[07Jul2025 22:55:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.5809889610138157,0.0,-15.682119985399595
+[07Jul2025 22:55:31.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.580782892114769,0.0,-16.080514747128746
+[07Jul2025 22:55:31.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.578887562725299,0.0,-16.479033462293273
+[07Jul2025 22:55:31.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.575429754027141,0.0,-16.877661906429466
+[07Jul2025 22:55:31.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.570527402055177,0.0,-17.276387411630367
+[07Jul2025 22:55:31.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.564290481746923,0.0,-17.675198710890527
+[07Jul2025 22:55:32.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.3038247443853379,0.0,-10.324328722002292
+[07Jul2025 22:55:32.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.2914939442137552,0.0,-10.723479871236805
+[07Jul2025 22:55:32.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.27841053565947504,0.0,-11.122666579744191
+[07Jul2025 22:55:32.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.2646344588567331,0.0,-11.52188452418659
+[07Jul2025 22:55:32.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.24952675476521335,0.0,-11.921088809289813
+[07Jul2025 22:55:32.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.23188702698075758,0.0,-12.320167827834439
+[07Jul2025 22:55:32.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.21076867974016977,0.0,-12.718993886552425
+[07Jul2025 22:55:32.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.18544949428132895,0.0,-13.117436065109132
+[07Jul2025 22:55:32.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.15538587966807427,0.0,-13.515366633384701
+[07Jul2025 22:55:32.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.1201905498993483,0.0,-13.912667531107672
+[07Jul2025 22:55:32.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.07960483744136582,0.0,-14.30923337202944
+[07Jul2025 22:55:32.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.03347757660026218,0.0,-14.70497350320511
+[07Jul2025 22:55:32.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.018257539653973254,0.0,-15.099811820613922
+[07Jul2025 22:55:32.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.07559479669470193,0.0,-15.493687527088923
+[07Jul2025 22:55:32.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.13847532242749594,0.0,-15.886553109892702
+[07Jul2025 22:55:32.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.20678922722817106,0.0,-16.27837618249623
+[07Jul2025 22:55:32.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.2797289000353089,0.0,-16.6693409965535
+[07Jul2025 22:55:32.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.3559173923654839,0.0,-17.05979493429686
+[07Jul2025 22:55:32.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.4335277506817192,0.0,-17.45016839242794
+[07Jul2025 22:55:32.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.5103666355969381,0.0,-17.840889087763117
+[07Jul2025 22:55:32.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.5846463416202141,0.0,-18.232208059867162
+[07Jul2025 22:55:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.6549376092600596,0.0,-18.62424696974199
+[07Jul2025 22:55:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.7201126595333562,0.0,-19.01703621319689
+[07Jul2025 22:55:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.7793109149677662,0.0,-19.410542867537742
+[07Jul2025 22:55:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.8318914176441012,0.0,-19.804692755318683
+[07Jul2025 22:55:33.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -0.8774043892468626,0.0,-20.199386695639305
+[07Jul2025 22:55:43.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 3.943326708819029,0.0,-9.495005685659407
+[07Jul2025 22:55:43.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.131907995210952,0.0,-9.84630949294774
+[07Jul2025 22:55:43.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.321709697629103,0.0,-10.197078456512827
+[07Jul2025 22:55:43.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.512636302233943,0.0,-10.54735064921374
+[07Jul2025 22:55:43.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.704598521750654,0.0,-10.89716225142206
+[07Jul2025 22:55:43.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 4.897512674675056,0.0,-11.246547736545153
+[07Jul2025 22:55:43.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.091303442067385,0.0,-11.595538119472849
+[07Jul2025 22:55:43.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.285899721375358,0.0,-11.944163239580803
+[07Jul2025 22:55:43.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.481237510990297,0.0,-12.292449944855207
+[07Jul2025 22:55:43.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.677255899545628,0.0,-12.640424324458536
+[07Jul2025 22:55:43.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.8732948729146415,0.0,-12.98845753997989
+[07Jul2025 22:55:43.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.068199132635186,0.0,-13.337168249019214
+[07Jul2025 22:55:43.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.2603920808856515,0.0,-13.68731849944652
+[07Jul2025 22:55:43.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.4485950852727,0.0,-14.03944110312682
+[07Jul2025 22:55:43.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.6317886410017195,0.0,-14.393891553459753
+[07Jul2025 22:55:43.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.809180971689614,0.0,-14.750887688015155
+[07Jul2025 22:55:43.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 6.980173595428141,0.0,-15.110543227959397
+[07Jul2025 22:55:43.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.144339432332117,0.0,-15.47289166034875
+[07Jul2025 22:55:43.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.30139069332273,0.0,-15.83790861508487
+[07Jul2025 22:55:43.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.451163792478155,0.0,-16.20552611821745
+[07Jul2025 22:55:43.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.593593861656302,0.0,-16.575646574754728
+[07Jul2025 22:55:43.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.728698730122687,0.0,-16.948152235125463
+[07Jul2025 22:55:43.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.856564122511315,0.0,-17.32291269053917
+[07Jul2025 22:55:43.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 7.977330044554321,0.0,-17.699790743367203
+[07Jul2025 22:55:43.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.091178310912596,0.0,-18.07864690072438
+[07Jul2025 22:55:43.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.198328771735476,0.0,-18.459341880146212
+[07Jul2025 22:55:43.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.2990243895851,0.0,-18.841739837000887
+[07Jul2025 22:55:43.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.393525328400187,0.0,-19.225709860998904
+[07Jul2025 22:55:43.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.482103573958454,0.0,-19.611127036204834
+[07Jul2025 22:55:43.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.565038048986992,0.0,-19.997873149178304
+[07Jul2025 22:55:43.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.642610183233614,0.0,-20.385837102784762
+[07Jul2025 22:55:43.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.715103727491737,0.0,-20.774914863939784
+[07Jul2025 22:55:43.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.782800744982694,0.0,-21.16500956186792
+[07Jul2025 22:55:43.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.845974158867591,0.0,-21.556031669665572
+[07Jul2025 22:55:43.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.904892519134876,0.0,-21.947898359321243
+[07Jul2025 22:55:43.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 8.959812799929637,0.0,-22.340533517279255
+[07Jul2025 22:55:43.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.01098540105545,0.0,-22.733867099071176
+[07Jul2025 22:55:43.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.05865098547298,0.0,-23.127834887485278
+[07Jul2025 22:55:43.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.103037628508162,0.0,-23.522378215314575
+[07Jul2025 22:55:43.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.14436591471275,0.0,-23.917443376828714
+[07Jul2025 22:55:43.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.182842026348226,0.0,-24.312981504155232
+[07Jul2025 22:55:43.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 9.218663019267012,0.0,-24.708948031339332
+[07Jul2025 22:55:43.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.495945642371396,0.0,-15.96217559304796
+[07Jul2025 22:55:43.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.527004427281383,0.0,-16.358880945427927
+[07Jul2025 22:55:43.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.555935148205151,0.0,-16.755903797760993
+[07Jul2025 22:55:43.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.582893103587196,0.0,-17.153213767225907
+[07Jul2025 22:55:43.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.608021894125272,0.0,-17.550783341646138
+[07Jul2025 22:55:43.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.631458427149596,0.0,-17.948587529095448
+[07Jul2025 22:55:43.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.653329752403124,0.0,-18.346603713906234
+[07Jul2025 22:55:43.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.673754048091666,0.0,-18.744811422768862
+[07Jul2025 22:55:43.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.692841508270533,0.0,-19.143192129122326
+[07Jul2025 22:55:43.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.710695141434542,0.0,-19.541729062204695
+[07Jul2025 22:55:43.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.727407654935519,0.0,-19.940407102253403
+[07Jul2025 22:55:43.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.743070153897918,0.0,-20.339212503647104
+[07Jul2025 22:55:43.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.757764632815224,0.0,-20.738132880425383
+[07Jul2025 22:55:43.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.770870780156542,0.0,-21.137161034032033
+[07Jul2025 22:55:43.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.7812016882605235,0.0,-21.536259539780303
+[07Jul2025 22:55:43.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.787824706360993,0.0,-21.93535865464264
+[07Jul2025 22:55:43.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 5.790025060682353,0.0,-22.334370698879866
+[07Jul2025 22:55:48.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4552ms or 91 ticks behind
+[07Jul2025 22:55:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was turned to ice by Ice Dragon
+[07Jul2025 22:55:56.418] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cucholindo was created at position [x:398, y:63, z:-1389, dim:minecraft:overworld]
+[07Jul2025 22:55:56.423] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 22:56:00.172] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[07Jul2025 22:56:00.482] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751928960330
+[07Jul2025 22:56:03.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki walked into fire whilst fighting Fire Dragon
+[07Jul2025 22:56:03.118] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kazuruki was created at position [x:-1189, y:63, z:1465, dim:minecraft:overworld]
+[07Jul2025 22:56:03.120] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[07Jul2025 22:56:05.188] [Server thread/DEBUG] [twilightforest/]: Player Kazuruki (855544bf-53c4-314e-898b-72dc5425c191) respawned and received items held in storage
+[07Jul2025 22:56:05.223] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751928965200
+[07Jul2025 22:56:05.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[07Jul2025 22:56:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[07Jul2025 22:56:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Cucholindo]
+[07Jul2025 22:56:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[07Jul2025 22:56:42.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [The Most Useful Key]
+[07Jul2025 22:56:58.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/1060, l='ServerLevel[world]', x=69.70, y=82.00, z=741.30] died, message: 'Scribe was slain by Zombie'
+[07Jul2025 22:57:03.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/947, l='ServerLevel[world]', x=69.49, y=82.00, z=744.70] died, message: 'Villager was slain by Zombie'
+[07Jul2025 22:57:33.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has reached the goal [A Fast Comeback]
+[07Jul2025 22:57:53.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[07Jul2025 22:58:08.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -6.9435004140043475,0.0,7.629142827527403
+[07Jul2025 22:58:08.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -7.242930253705822,0.0,7.892551029777451
+[07Jul2025 22:58:08.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -7.54352882883552,0.0,8.154759218142999
+[07Jul2025 22:58:08.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -7.845208168487545,0.0,8.415851584687971
+[07Jul2025 22:58:08.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -8.147884250383356,0.0,8.6759098422433
+[07Jul2025 22:58:08.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -8.451481426534599,0.0,8.93500751186616
+[07Jul2025 22:58:08.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -8.755929186726917,0.0,9.193213733424727
+[07Jul2025 22:58:08.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.061161652192993,0.0,9.450593707443431
+[07Jul2025 22:58:08.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.367117119918419,0.0,9.707209094624886
+[07Jul2025 22:58:08.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.673737650654118,0.0,9.963118373557336
+[07Jul2025 22:58:08.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -9.980971087901423,0.0,10.218374169380922
+[07Jul2025 22:58:08.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -10.288768091725842,0.0,10.473026834266193
+[07Jul2025 22:58:08.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -10.597084248736905,0.0,10.727121681439712
+[07Jul2025 22:58:08.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -10.90587719152262,0.0,10.980702486075415
+[07Jul2025 22:58:08.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -11.215108789413193,0.0,11.23380864582873
+[07Jul2025 22:58:08.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -11.524742329445075,0.0,11.486478615584701
+[07Jul2025 22:58:08.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -11.834744769951897,0.0,11.738747004738798
+[07Jul2025 22:58:08.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -12.145086373434708,0.0,11.990644956158349
+[07Jul2025 22:58:08.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -12.455737988234205,0.0,12.242203504732288
+[07Jul2025 22:58:08.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -12.766675762043349,0.0,12.493447573688172
+[07Jul2025 22:58:08.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -13.077875839875333,0.0,12.74440259837661
+[07Jul2025 22:58:08.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -13.389314371782177,0.0,12.995094478784722
+[07Jul2025 22:58:08.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -13.700972273271702,0.0,13.24554351486563
+[07Jul2025 22:58:08.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -14.01282998784086,0.0,13.49577098474856
+[07Jul2025 22:58:08.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -14.324872291372685,0.0,13.745793028714843
+[07Jul2025 22:58:08.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -14.637083105426996,0.0,13.99562718305151
+[07Jul2025 22:58:08.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -14.949447959408019,0.0,14.245289228554384
+[07Jul2025 22:58:08.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -15.26195382977994,0.0,14.494793367938883
+[07Jul2025 22:58:08.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -15.574588991635494,0.0,14.74415238551137
+[07Jul2025 22:58:08.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -15.887342892558422,0.0,14.99337778342192
+[07Jul2025 22:58:08.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -16.200631634889817,0.0,15.241931586263718
+[07Jul2025 22:58:08.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -16.515190769587775,0.0,15.488809459486902
+[07Jul2025 22:58:08.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -16.83195411202894,0.0,15.732609624422821
+[07Jul2025 22:58:08.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -17.151590367597805,0.0,15.972187866063223
+[07Jul2025 22:58:08.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -17.474559705785055,0.0,16.206626933810185
+[07Jul2025 22:58:08.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -17.801157185315788,0.0,16.435211527899583
+[07Jul2025 22:58:08.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -18.131548957114433,0.0,16.657402844203034
+[07Jul2025 22:58:08.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -18.465802190840634,0.0,16.8728133558011
+[07Jul2025 22:58:08.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -18.80390824250202,0.0,17.081185891501264
+[07Jul2025 22:58:08.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -19.1458004095889,0.0,17.282377145987084
+[07Jul2025 22:58:08.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -19.491369858541304,0.0,17.476338316449528
+[07Jul2025 22:58:08.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -19.840479691247765,0.0,17.663093228491107
+[07Jul2025 22:58:08.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -20.192971696583584,0.0,17.842732643492354
+[07Jul2025 22:58:08.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -20.548675209586918,0.0,18.015397803841324
+[07Jul2025 22:58:08.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -20.868808362809318,0.0,18.170796444038842
+[07Jul2025 22:58:08.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -21.156928193076908,0.0,18.310655216511577
+[07Jul2025 22:58:08.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -21.455069677689494,0.0,18.4461170605789
+[07Jul2025 22:58:08.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -21.762322565061197,0.0,18.577241456745014
+[07Jul2025 22:58:08.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -22.0778545753692,0.0,18.70412219760601
+[07Jul2025 22:58:08.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -15.755575490129559,0.0,11.462425342040888
+[07Jul2025 22:58:08.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -16.085456271830026,0.0,11.581181757096374
+[07Jul2025 22:58:08.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -16.42153406679921,0.0,11.696095442997375
+[07Jul2025 22:58:08.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -16.763235482646166,0.0,11.80732137042287
+[07Jul2025 22:58:08.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -17.110038032656405,0.0,11.915025103516427
+[07Jul2025 22:58:08.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -17.461466166535388,0.0,12.019378057624635
+[07Jul2025 22:58:08.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -17.817088271772434,0.0,12.12054943565613
+[07Jul2025 22:58:08.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -18.176511803024255,0.0,12.218710261228807
+[07Jul2025 22:58:08.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -18.53938090649143,0.0,12.314025685482193
+[07Jul2025 22:58:08.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -18.905372225497388,0.0,12.406659375518984
+[07Jul2025 22:58:08.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -19.274191784885716,0.0,12.496773687953691
+[07Jul2025 22:58:08.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -19.64557344985127,0.0,12.584522258111747
+[07Jul2025 22:58:08.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -20.019276197783768,0.0,12.670050883334625
+[07Jul2025 22:58:08.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -20.39508103707834,0.0,12.753502099589468
+[07Jul2025 22:58:08.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -20.77278887481492,0.0,12.83501551971358
+[07Jul2025 22:58:08.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -21.152219800938553,0.0,12.914720562456978
+[07Jul2025 22:58:08.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -21.533211192324245,0.0,12.992737475616877
+[07Jul2025 22:58:08.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -21.915614799441187,0.0,13.069185831304594
+[07Jul2025 22:58:08.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -22.299297138110546,0.0,13.144173235570179
+[07Jul2025 22:58:08.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -22.684136835778133,0.0,13.217804102714354
+[07Jul2025 22:58:08.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -23.07002402757405,0.0,13.290176188637815
+[07Jul2025 22:58:08.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -23.456859216719806,0.0,13.36138125900925
+[07Jul2025 22:58:08.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -23.844552248894843,0.0,13.431505689220558
+[07Jul2025 22:58:08.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -24.23302138171573,0.0,13.500631005276773
+[07Jul2025 22:58:08.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -24.62219303213817,0.0,13.568830577320568
+[07Jul2025 22:58:08.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -25.01200038682822,0.0,13.636174228961863
+[07Jul2025 22:58:08.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -25.402382728916336,0.0,13.702728590533752
+[07Jul2025 22:58:08.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -25.793285405770803,0.0,13.768553628403197
+[07Jul2025 22:58:08.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -26.184658652604355,0.0,13.83370710464419
+[07Jul2025 22:58:08.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -26.576457677384383,0.0,13.898241003725161
+[07Jul2025 22:58:08.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -26.96864215983203,0.0,13.962202110269573
+[07Jul2025 22:58:08.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -27.36117524545307,0.0,14.025636323248591
+[07Jul2025 22:58:08.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -27.7540231989596,0.0,14.088588745477637
+[07Jul2025 22:58:08.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -28.147156217386737,0.0,14.151096175281282
+[07Jul2025 22:58:08.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -28.5404389454593,0.0,14.21388507473057
+[07Jul2025 22:58:08.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! -28.933619554526672,0.0,14.27822502268441
+[07Jul2025 22:58:11.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[07Jul2025 22:58:28.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[07Jul2025 22:58:31.326] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[07Jul2025 22:58:52.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[07Jul2025 22:59:00.064] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[07Jul2025 22:59:00.065] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[07Jul2025 22:59:00.065] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[07Jul2025 22:59:00.065] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[07Jul2025 22:59:00.066] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[07Jul2025 22:59:00.066] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[07Jul2025 22:59:24.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Loom] to Kazuruki]
+[07Jul2025 22:59:31.440] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:31.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:31.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:32.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:32.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:32.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:35.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:37.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 22:59:37.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 22:59:37.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:37.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:37.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:38.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[07Jul2025 22:59:38.554] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:39.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:39.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:39.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:40.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:40.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:40.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:41.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:41.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:41.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:42.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:42.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:42.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:43.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:43.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:43.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:43.794] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [White Banner] to Kazuruki]
+[07Jul2025 22:59:44.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:44.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:44.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:45.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:45.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:45.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:45.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:46.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:47.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:49.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:49.492] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:49.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:49.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:52.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:52.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Black Dye] to Kazuruki]
+[07Jul2025 22:59:56.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 22:59:56.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:00:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Siren
+[07Jul2025 23:00:06.732] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cucholindo was created at position [x:89, y:65, z:-1116, dim:minecraft:overworld]
+[07Jul2025 23:00:06.752] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[07Jul2025 23:00:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:08.070] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[07Jul2025 23:00:08.340] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751929208328
+[07Jul2025 23:00:09.702] [Netty Epoll Server IO #2/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@38d79567 for service interface mezz.jei.common.platform.IPlatformHelper
+[07Jul2025 23:00:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:17.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:20.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:24.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:27.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:30.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:32.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo lost connection: Disconnected
+[07Jul2025 23:00:32.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo left the game
+[07Jul2025 23:00:32.250] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2025 23:00:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:41.632] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 53 messages to dispatch.
+[07Jul2025 23:00:41.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[07Jul2025 23:00:41.689] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[07Jul2025 23:00:41.736] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[07Jul2025 23:00:41.798] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[07Jul2025 23:00:41.838] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[07Jul2025 23:00:41.894] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[07Jul2025 23:00:41.901] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[07Jul2025 23:00:41.901] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[07Jul2025 23:00:41.901] [Netty Epoll Server IO #5/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[07Jul2025 23:00:41.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[07Jul2025 23:00:41.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[07Jul2025 23:00:41.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[07Jul2025 23:00:41.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [mowziesmobs, kuma_api, cucumber, geckolib, treeharvester, tacz, libraryferret, goblintraders, trender, dynamiclights, sophisticatedcore, waystones, epicfight, wom, xaeroworldmap, modernfix, jei, citadel, alexsmobs, artifacts, mixinextras, glitchcore, sereneseasons, sophisticatedbackpacks, iceandfire, balm, carryon, cloth_config, forge, stackrefill, spartantwilight, twilightforest, tlskincape, konkrete, embeddium, rubidium, chloride, mysticalagriculture, ironchest, uchicraftana, dungeons_arise, minecraft, farmersdelight, alexscaves, terrablender, moonlight, ambientsounds, mousetweaks, biomesoplenty, creativecore, lionfishapi, spartantoolkit, cataclysm, curios, spartanshields, xaerominimap, collective, corail_recycler, securitycraft, spartanfire, entityculling, bettervillage, inventoryhud, tombstone, immediatelyfast, spartanweaponry, architectury, magistuarmory, vampirism, teamlapenlib, vampirism_integrations, godly_vampirism, ferritecore, transition, flib, dynamic_fps, justzoom, framework, krypton, infinitetrading, cosmeticarmorreworked, expandability, cyclicdelight, cyclic]
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'teamlapenlib:main' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uchicraftana:uchicraftana' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mysticalagriculture:main' : Version test of '1.0' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corail_recycler:recycler_channel' : Version test of 'corail_recycler-5.9.1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-9.0.1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.986] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cyclic:main_channel' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vampirism:main' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Jul2025 23:00:41.987] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[07Jul2025 23:00:41.998] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:refinement' to 'fml:handshake' sequence 7
+[07Jul2025 23:00:42.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[07Jul2025 23:00:42.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:42.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:42.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[07Jul2025 23:00:42.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[07Jul2025 23:00:42.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:42.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:42.101] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 9
+[07Jul2025 23:00:42.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 10
+[07Jul2025 23:00:42.186] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_unlocker' to 'fml:handshake' sequence 11
+[07Jul2025 23:00:42.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 12
+[07Jul2025 23:00:42.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:miniontasks' to 'fml:handshake' sequence 13
+[07Jul2025 23:00:42.337] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 14
+[07Jul2025 23:00:42.400] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:skills' to 'fml:handshake' sequence 15
+[07Jul2025 23:00:42.434] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 16
+[07Jul2025 23:00:42.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[07Jul2025 23:00:42.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:actions' to 'fml:handshake' sequence 18
+[07Jul2025 23:00:42.588] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:refinement_set' to 'fml:handshake' sequence 19
+[07Jul2025 23:00:42.637] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[07Jul2025 23:00:42.706] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 21
+[07Jul2025 23:00:42.739] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_requirement' to 'fml:handshake' sequence 22
+[07Jul2025 23:00:42.787] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 23
+[07Jul2025 23:00:42.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 24
+[07Jul2025 23:00:42.887] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 25
+[07Jul2025 23:00:42.938] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 26
+[07Jul2025 23:00:42.998] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 27
+[07Jul2025 23:00:43.038] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 28
+[07Jul2025 23:00:43.088] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 29
+[07Jul2025 23:00:43.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 30
+[07Jul2025 23:00:43.194] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 31
+[07Jul2025 23:00:43.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_reward' to 'fml:handshake' sequence 32
+[07Jul2025 23:00:43.266] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[07Jul2025 23:00:43.266] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.266] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.272] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[07Jul2025 23:00:43.272] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.272] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[07Jul2025 23:00:43.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.277] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.302] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:oil' to 'fml:handshake' sequence 33
+[07Jul2025 23:00:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[07Jul2025 23:00:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[07Jul2025 23:00:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.305] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.306] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.312] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[07Jul2025 23:00:43.312] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.312] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:converting_handler' to 'fml:handshake' sequence 34
+[07Jul2025 23:00:43.388] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 35
+[07Jul2025 23:00:43.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:entityactions' to 'fml:handshake' sequence 36
+[07Jul2025 23:00:43.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 37
+[07Jul2025 23:00:43.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:43.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 38
+[07Jul2025 23:00:43.596] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 39
+[07Jul2025 23:00:43.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 40
+[07Jul2025 23:00:43.674] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[07Jul2025 23:00:43.675] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.675] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.688] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry vampirism:task_reward_instance' to 'fml:handshake' sequence 41
+[07Jul2025 23:00:43.757] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 42
+[07Jul2025 23:00:43.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[07Jul2025 23:00:43.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[07Jul2025 23:00:43.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.781] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.786] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[07Jul2025 23:00:43.786] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.786] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.790] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 43
+[07Jul2025 23:00:43.792] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[07Jul2025 23:00:43.792] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.792] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.797] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[07Jul2025 23:00:43.797] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:43.797] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:43.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 44
+[07Jul2025 23:00:43.899] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 45
+[07Jul2025 23:00:43.937] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vampirism-server.toml' to 'fml:handshake' sequence 46
+[07Jul2025 23:00:43.984] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 47
+[07Jul2025 23:00:44.055] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config vampirism-balance.toml' to 'fml:handshake' sequence 48
+[07Jul2025 23:00:44.084] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corail_recycler-server.toml' to 'fml:handshake' sequence 49
+[07Jul2025 23:00:44.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 50
+[07Jul2025 23:00:44.157] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[07Jul2025 23:00:44.157] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.157] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.157] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[07Jul2025 23:00:44.157] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.157] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[07Jul2025 23:00:44.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[07Jul2025 23:00:44.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.162] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.168] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[07Jul2025 23:00:44.169] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.169] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.203] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 51
+[07Jul2025 23:00:44.240] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 52
+[07Jul2025 23:00:44.437] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[07Jul2025 23:00:44.437] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.437] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.448] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[07Jul2025 23:00:44.448] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.448] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.461] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[07Jul2025 23:00:44.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Jul2025 23:00:44.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Jul2025 23:00:44.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[07Jul2025 23:00:44.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cucholindo[/172.23.7.92:57960] logged in with entity id 95260 at (88.88627361642563, 66.0, -1116.3620459228762)
+[07Jul2025 23:00:44.576] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6d74cc22 into net.minecraft.network.Connection@3310e1f5
+[07Jul2025 23:00:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo joined the game
+[07Jul2025 23:00:46.448] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751929246437
+[07Jul2025 23:00:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:54.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:00:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Banner Pattern] to Kazuruki]
+[07Jul2025 23:01:29.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[07Jul2025 23:01:34.801] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[07Jul2025 23:01:34.802] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[07Jul2025 23:01:34.899] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[07Jul2025 23:01:34.899] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[07Jul2025 23:01:46.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[07Jul2025 23:01:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Black Dye] to Kazuruki]
+[07Jul2025 23:02:07.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Dye Agglomeratio] to Kazuruki]
+[07Jul2025 23:02:09.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:02:09.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[07Jul2025 23:02:11.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Dye Agglomeratio] to Kazuruki]
+[07Jul2025 23:02:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Magenta Dye] to Kazuruki]
+[07Jul2025 23:02:18.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Purple Dye] to Kazuruki]
+[07Jul2025 23:02:31.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jul2025 23:02:52.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Ice Bucket Challenge]
+[07Jul2025 23:03:07.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! 9.08261515319088,1.6643051839867553,3.963907413248762
