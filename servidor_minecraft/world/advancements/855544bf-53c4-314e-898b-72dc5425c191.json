@@ -83,6 +83,7 @@
       "minecraft:cold_ocean": "2025-07-07 22:49:15 +0000",
       "minecraft:forest": "2025-07-07 22:41:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-07 22:47:10 +0000",
+      "minecraft:deep_dark": "2025-07-08 00:06:16 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-07 22:55:14 +0000",
       "minecraft:plains": "2025-07-07 22:55:02 +0000"
     },
@@ -418,9 +419,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 00:06:23 +0000"
     },
     "done": true
   },
@@ -526,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-08 00:08:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-07-07 22:36:34 +0000"
@@ -628,6 +647,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-07-08 00:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:31:04 +0000"
@@ -636,6 +661,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-08 00:05:05 +0000",
       "minecraft:spider": "2025-07-07 23:59:26 +0000",
       "minecraft:creeper": "2025-07-07 22:46:14 +0000",
       "minecraft:zombie": "2025-07-07 22:25:05 +0000"
@@ -687,6 +713,12 @@
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-07-07 23:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
     },
     "done": true
   },
@@ -768,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-07 22:30:54 +0000"
@@ -777,6 +815,12 @@
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:31:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -825,6 +869,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-07-07 22:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -918,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2025-07-07 23:31:18 +0000"
@@ -954,6 +1010,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-07 22:28:03 +0000"
@@ -981,6 +1043,12 @@
   "vampirism:recipes/decorations/general/throne": {
     "criteria": {
       "has_planks": "2025-07-07 22:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 00:06:23 +0000"
     },
     "done": true
   },
@@ -1089,6 +1157,12 @@
   "spartanweaponry:recipes/wooden_warhammer": {
     "criteria": {
       "has_wood": "2025-07-07 22:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 00:06:23 +0000"
     },
     "done": true
   },
@@ -1224,6 +1298,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-07-07 22:31:47 +0000"
@@ -1275,6 +1355,12 @@
   "spartanweaponry:recipes/wooden_rapier": {
     "criteria": {
       "has_wood": "2025-07-07 22:27:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
     },
     "done": true
   },
@@ -1364,6 +1450,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-07-08 00:08:03 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/golden_tower_shield": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 23:36:33 +0000"
@@ -1394,6 +1486,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:31:04 +0000"
@@ -1421,6 +1519,12 @@
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -1634,6 +1738,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2025-07-07 22:27:37 +0000"
@@ -1832,6 +1942,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-08 00:12:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-07-07 23:18:07 +0000"
@@ -1928,6 +2044,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 23:36:33 +0000"
@@ -1973,6 +2095,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-07 23:31:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -2102,6 +2230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:33:25 +0000"
@@ -2129,6 +2263,12 @@
   "spartanweaponry:recipes/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 22:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -2246,9 +2386,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-07 23:36:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -2258,9 +2410,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-07-07 22:36:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -2408,6 +2572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-08 00:05:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_lance": {
     "criteria": {
       "has_dragon_bone": "2025-07-07 23:24:51 +0000"
@@ -2420,9 +2590,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-07-08 00:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-08 00:01:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -2486,6 +2668,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 00:10:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-07 22:28:06 +0000"
@@ -2501,6 +2689,12 @@
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_iron": "2025-07-07 22:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -2555,6 +2749,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-07 22:37:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-07-08 00:05:05 +0000"
     },
     "done": true
   },
@@ -2630,6 +2830,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-07 22:28:03 +0000"
@@ -2687,6 +2893,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-07 23:35:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -2895,6 +3107,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-07 22:36:34 +0000"
@@ -2946,6 +3164,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-07 22:37:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -3003,6 +3227,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-08 00:05:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-07-07 22:31:04 +0000"
@@ -3030,6 +3260,12 @@
   "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2025-07-07 23:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -3066,6 +3302,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-07 22:28:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -3135,6 +3377,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2025-07-07 22:27:55 +0000"
@@ -3153,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-08 00:07:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-07 22:31:14 +0000"
@@ -3162,6 +3416,12 @@
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-07 22:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
     },
     "done": true
   },
@@ -3282,6 +3542,12 @@
   "spartanfire:recipes/dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_dragon_bone": "2025-07-07 23:24:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },
@@ -3419,6 +3685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-08 00:12:54 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_quarterstaff": {
     "criteria": {
       "has_dragon_bone": "2025-07-07 23:24:51 +0000"
@@ -3455,6 +3727,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2025-07-07 23:29:06 +0000"
@@ -3476,6 +3754,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-08 00:08:58 +0000"
     },
     "done": true
   },

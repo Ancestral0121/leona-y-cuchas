@@ -7697,3 +7697,178 @@ java.lang.Throwable: null
 [08Jul2025 00:04:52.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [08Jul2025 00:05:00.670] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [08Jul2025 00:05:00.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jul2025 00:05:03.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:05:03.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:05:05.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:05:05.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jul2025 00:05:09.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5234ms or 104 ticks behind
+[08Jul2025 00:05:26.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[08Jul2025 00:05:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported lion_799 to Kazuruki]
+[08Jul2025 00:05:32.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:05:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Arrow] to Kazuruki]
+[08Jul2025 00:05:48.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:06:32.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:06:33.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:06:33.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [Monster Hunter]
+[08Jul2025 00:06:33.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [A Strange Grave Dust]
+[08Jul2025 00:06:50.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Saturation to Kazuruki]
+[08Jul2025 00:06:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Saturation to Kazuruki]
+[08Jul2025 00:07:01.183] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[08Jul2025 00:07:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed every effect from Kazuruki]
+[08Jul2025 00:07:11.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:07:11.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:07:12.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:07:13.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [Sneak 100]
+[08Jul2025 00:07:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Sneak 100]
+[08Jul2025 00:07:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to lion_799]
+[08Jul2025 00:08:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Sculk Cymbal]
+[08Jul2025 00:08:03.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Take Aim]
+[08Jul2025 00:08:42.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:08:44.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:08:44.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jul2025 00:08:44.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:08:44.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 was slain by Kazuruki
+[08Jul2025 00:08:44.703] [Server thread/DEBUG] [tombstone/]: A new grave of the player lion_799 was created at position [x:447, y:-43, z:3272, dim:minecraft:overworld]
+[08Jul2025 00:08:44.704] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 00:08:47.339] [Server thread/DEBUG] [twilightforest/]: Player lion_799 (09e6c51d-9c55-34d1-bd30-86bab2d35a56) respawned and received items held in storage
+[08Jul2025 00:08:48.118] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933328092
+[08Jul2025 00:09:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported lion_799 to Kazuruki]
+[08Jul2025 00:09:14.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:14.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Zombie
+[08Jul2025 00:09:14.709] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cucholindo was created at position [x:71, y:83, z:725, dim:minecraft:overworld]
+[08Jul2025 00:09:14.725] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[08Jul2025 00:09:16.279] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[08Jul2025 00:09:16.603] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933356581
+[08Jul2025 00:09:17.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:38.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:45.946] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:48.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:49.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:52.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:53.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:53.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:54.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:09:56.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Enderman
+[08Jul2025 00:09:56.096] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kazuruki was created at position [x:431, y:-43, z:3276, dim:minecraft:overworld]
+[08Jul2025 00:09:56.115] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[08Jul2025 00:09:57.466] [Server thread/DEBUG] [twilightforest/]: Player Kazuruki (855544bf-53c4-314e-898b-72dc5425c191) respawned and received items held in storage
+[08Jul2025 00:09:57.589] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933397537
+[08Jul2025 00:09:59.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:09:59.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:09:59.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:00.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:00.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:03.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[08Jul2025 00:10:08.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1135, l='ServerLevel[world]', x=1.70, y=77.00, z=752.51] died, message: 'Villager was slain by Zombie'
+[08Jul2025 00:10:13.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:14.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:15.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:15.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:16.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:17.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:18.151] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:19.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:22.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:23.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:25.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:26.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:28.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:29.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:33.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:35.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Chain Death]
+[08Jul2025 00:10:35.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Sinister Solace
+[08Jul2025 00:10:35.303] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kazuruki was created at position [x:417, y:-40, z:3278, dim:minecraft:overworld]
+[08Jul2025 00:10:35.356] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[08Jul2025 00:10:35.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:35.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:36.510] [Server thread/DEBUG] [twilightforest/]: Player Kazuruki (855544bf-53c4-314e-898b-72dc5425c191) respawned and received items held in storage
+[08Jul2025 00:10:36.573] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933436527
+[08Jul2025 00:10:37.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Suit Up]
+[08Jul2025 00:10:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 was killed by Zin using magic
+[08Jul2025 00:10:39.267] [Server thread/DEBUG] [tombstone/]: A new grave of the player lion_799 was created at position [x:415, y:-40, z:3279, dim:minecraft:overworld]
+[08Jul2025 00:10:39.271] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 00:10:40.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Enchanted Book] to Kazuruki]
+[08Jul2025 00:10:42.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Wing] to Kazuruki]
+[08Jul2025 00:10:43.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[08Jul2025 00:10:43.527] [Server thread/DEBUG] [twilightforest/]: Player lion_799 (09e6c51d-9c55-34d1-bd30-86bab2d35a56) respawned and received items held in storage
+[08Jul2025 00:10:44.906] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933444906
+[08Jul2025 00:10:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Skeleton
+[08Jul2025 00:10:47.235] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cucholindo was created at position [x:38, y:111, z:630, dim:minecraft:overworld]
+[08Jul2025 00:10:47.245] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[08Jul2025 00:10:47.246] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:10:50.118] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[08Jul2025 00:10:50.374] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933450355
+[08Jul2025 00:11:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported lion_799 to Kazuruki]
+[08Jul2025 00:11:04.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -0.1925710380118204,2.843841874592357,-9.652613140989274
+[08Jul2025 00:11:06.336] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:11.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -1.8645325109709603,2.1661092609382138,-9.76219362679683
+[08Jul2025 00:11:19.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:19.673] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:19.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:19.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:19.814] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:19.859] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:19.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:19.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:22.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:23.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:23.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:25.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:25.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.224] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.319] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.470] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.521] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.576] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.676] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.764] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.805] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.901] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:25.956] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:26.003] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:26.057] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jul2025 00:11:26.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:31.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:11:32.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -9.798438209053174,2.419999986886978,-0.517762940935313
+[08Jul2025 00:11:57.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:10.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:10.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jul2025 00:12:11.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:13.300] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:14.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:14.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jul2025 00:12:16.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:17.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:19.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:19.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jul2025 00:12:19.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:19.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Chest Slayer]
+[08Jul2025 00:12:19.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jul2025 00:12:22.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Skeleton
+[08Jul2025 00:12:22.400] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[08Jul2025 00:12:25.418] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[08Jul2025 00:12:25.446] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:12:25.695] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933545676
+[08Jul2025 00:12:40.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [Alex's Caves]
+[08Jul2025 00:12:48.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [It Belongs in a Museum]
+[08Jul2025 00:12:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 has made the advancement [Acquire Hardware]
+[08Jul2025 00:13:08.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Alex's Caves]
+[08Jul2025 00:14:01.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 430.500000, -42.500000, 3276.500000]
+[08Jul2025 00:14:05.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 71.500000, 63.500000, 831.500000]
+[08Jul2025 00:14:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 443.500000, 83.500000, 3236.500000]
+[08Jul2025 00:14:59.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:14:59.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:14:59.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Chest] to Kazuruki]
+[08Jul2025 00:15:14.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Skeleton
+[08Jul2025 00:15:14.447] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cucholindo was created at position [x:38, y:111, z:616, dim:minecraft:overworld]
+[08Jul2025 00:15:14.452] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[08Jul2025 00:15:14.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:15:14.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:15:16.001] [Server thread/DEBUG] [twilightforest/]: Player Cucholindo (e1a747aa-2aa3-340a-8735-aaf022c92d3e) respawned and received items held in storage
+[08Jul2025 00:15:16.308] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751933716302
