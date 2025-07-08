@@ -444,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-08 00:23:54 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_infused_iron_ingot": {
     "criteria": {
       "has_iron": "2025-07-08 00:12:53 +0000"
@@ -552,6 +558,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 00:16:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-07-08 00:09:34 +0000"
@@ -630,6 +642,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 00:16:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-07-07 23:37:38 +0000"
@@ -699,6 +717,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-07-08 00:12:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-08 00:19:10 +0000"
     },
     "done": true
   },
@@ -1237,6 +1261,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 00:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-08 00:06:35 +0000"
@@ -1282,6 +1312,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-07 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 00:19:54 +0000"
     },
     "done": true
   },
@@ -1941,6 +1977,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jacaranda_glade": "2025-07-08 00:20:38 +0000",
       "coniferous_forest": "2025-07-07 23:17:15 +0000",
       "seasonal_forest": "2025-07-07 23:15:11 +0000",
       "lavender_field": "2025-07-08 00:05:30 +0000",
@@ -1969,6 +2006,12 @@
   "spartanweaponry:recipes/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 00:12:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-07-08 00:19:54 +0000"
     },
     "done": true
   },
@@ -2143,6 +2186,12 @@
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 00:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 00:23:54 +0000"
     },
     "done": true
   },
@@ -2742,6 +2791,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-07-08 00:20:50 +0000",
       "minecraft:river": "2025-07-07 23:45:24 +0000",
       "minecraft:forest": "2025-07-07 23:41:53 +0000",
       "minecraft:deep_dark": "2025-07-08 00:06:49 +0000",
@@ -2801,7 +2851,8 @@
     "criteria": {
       "sweet_berries": "2025-07-07 23:36:28 +0000",
       "apple": "2025-07-07 23:43:32 +0000",
-      "potato": "2025-07-07 23:43:50 +0000"
+      "potato": "2025-07-07 23:43:50 +0000",
+      "bread": "2025-07-08 00:20:39 +0000"
     },
     "done": false
   },
@@ -2829,6 +2880,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-08 00:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-07 23:46:57 +0000"
@@ -2838,6 +2895,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-07 23:42:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-08 00:19:10 +0000"
     },
     "done": true
   },
@@ -2868,6 +2931,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-07-08 00:09:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-07-08 00:20:45 +0000"
     },
     "done": true
   },
