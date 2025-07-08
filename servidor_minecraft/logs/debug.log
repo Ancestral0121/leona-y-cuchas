@@ -12660,3 +12660,19 @@ java.lang.Throwable: null
 [08Jul2025 02:07:00.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 02:07:00.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jul2025 02:07:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Showing new title for 2 players]
+[08Jul2025 02:11:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 02:11:36.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 02:12:00.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:12:00.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:12:32.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 hit the ground too hard
+[08Jul2025 02:12:32.419] [Server thread/DEBUG] [tombstone/]: A new grave of the player lion_799 was created at position [x:-80, y:51, z:904, dim:minecraft:overworld]
+[08Jul2025 02:12:32.469] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 02:12:34.671] [Server thread/DEBUG] [twilightforest/]: Player lion_799 (09e6c51d-9c55-34d1-bd30-86bab2d35a56) respawned and received items held in storage
+[08Jul2025 02:12:34.906] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751940754906
+[08Jul2025 02:12:52.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to lion_799]
+[08Jul2025 02:16:50.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 02:17:00.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:17:00.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:18:00.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> -95.50.905
+[08Jul2025 02:18:24.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 02:18:30.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> -95.52.905

@@ -1299,3 +1299,12 @@
 [08Jul2025 02:03:45.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 7 block(s)]
 [08Jul2025 02:05:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 270 block(s)]
 [08Jul2025 02:07:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Showing new title for 2 players]
+[08Jul2025 02:11:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 02:11:36.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 02:12:32.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 hit the ground too hard
+[08Jul2025 02:12:32.469] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 02:12:52.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to lion_799]
+[08Jul2025 02:16:50.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 02:18:00.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> -95.50.905
+[08Jul2025 02:18:24.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 02:18:30.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> -95.52.905
