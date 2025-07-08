@@ -1222,3 +1222,26 @@
 [08Jul2025 01:06:29.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule playersSleepingPercentage is now set to: 67]
 [08Jul2025 01:06:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 640 [Dirt] to lion_799]
 [08Jul2025 01:07:16.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jul2025 01:07:31.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo lost connection: Disconnected
+[08Jul2025 01:07:31.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo left the game
+[08Jul2025 01:07:36.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1128, l='ServerLevel[world]', x=2.50, y=73.00, z=764.30] died, message: 'Toolsmith was slain by Zombie'
+[08Jul2025 01:07:50.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cucholindo[/172.23.7.92:64731] logged in with entity id 352871 at (235.8442635695494, 65.0, -856.4530999713623)
+[08Jul2025 01:07:50.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo joined the game
+[08Jul2025 01:08:22.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jul2025 01:08:41.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jul2025 01:08:58.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[08Jul2025 01:09:17.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3986ms or 79 ticks behind
+[08Jul2025 01:09:36.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3519ms or 70 ticks behind
+[08Jul2025 01:09:54.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3624ms or 72 ticks behind
+[08Jul2025 01:10:13.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[08Jul2025 01:10:32.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4279ms or 85 ticks behind
+[08Jul2025 01:10:52.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4781ms or 95 ticks behind
+[08Jul2025 01:11:03.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo lost connection: Disconnected
+[08Jul2025 01:11:03.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo left the game
+[08Jul2025 01:13:42.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1174, l='ServerLevel[world]', x=1.29, y=63.00, z=806.16] died, message: 'Toolsmith was slain by Iron Golem'
+[08Jul2025 01:14:46.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kazuruki> waton
+[08Jul2025 01:14:52.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kazuruki> cucho ya no esta
+[08Jul2025 01:15:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Pickaxe] to lion_799]
+[08Jul2025 01:16:30.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kazuruki> ponte el pico en la mano
+[08Jul2025 01:16:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Efficiency V to lion_799's item]
+[08Jul2025 01:17:06.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Unbreaking III to lion_799's item]
