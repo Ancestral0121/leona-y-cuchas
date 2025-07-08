@@ -4,5 +4,11 @@
     "name": "Kazuruki",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f699187f-af2e-34e4-a4d9-b9c5a918b208",
+    "name": "l",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
