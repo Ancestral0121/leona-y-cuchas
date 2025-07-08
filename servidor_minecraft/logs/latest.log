@@ -1287,3 +1287,15 @@
 [08Jul2025 01:57:47.844] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
 [08Jul2025 01:58:01.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Timed out
 [08Jul2025 01:58:01.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[08Jul2025 01:58:23.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/918, l='ServerLevel[world]', x=116.51, y=74.00, z=816.70] died, message: 'Mason was slain by Zombie'
+[08Jul2025 01:58:49.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/172.23.15.27:65397] logged in with entity id 442261 at (399.42426409421176, 77.0, 3240.1132388787)
+[08Jul2025 01:58:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[08Jul2025 02:00:48.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 02:01:23.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Showing new title for 2 players]
+[08Jul2025 02:02:54.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> -96.51.866 y -78.56.906
+[08Jul2025 02:03:17.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 3579 block(s)]
+[08Jul2025 02:03:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 20 block(s)]
+[08Jul2025 02:03:40.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 584 block(s)]
+[08Jul2025 02:03:45.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 7 block(s)]
+[08Jul2025 02:05:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 270 block(s)]
+[08Jul2025 02:07:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Showing new title for 2 players]
