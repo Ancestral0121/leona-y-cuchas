@@ -1251,3 +1251,8 @@
 [08Jul2025 01:22:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 121 block(s)]
 [08Jul2025 01:23:57.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 240 block(s)]
 [08Jul2025 01:24:55.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Hot Stuff]
+[08Jul2025 01:39:12.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[08Jul2025 01:39:14.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 01:39:44.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 01:45:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 drowned
+[08Jul2025 01:45:50.096] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
