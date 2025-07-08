@@ -1183,3 +1183,42 @@
 [08Jul2025 00:55:44.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Deepslate Bricks] to Kazuruki]
 [08Jul2025 00:56:38.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Cucholindo to 48.500000, 63.000000, 829.500000]
 [08Jul2025 00:56:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> 48.63.829
+[08Jul2025 00:59:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Showing new title for 3 players]
+[08Jul2025 00:59:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Showing new title for 3 players]
+[08Jul2025 00:59:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was shot by Skeleton
+[08Jul2025 00:59:51.381] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[08Jul2025 00:59:56.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -5.1704529478656625,1.127890238205481,-8.597883441429303
+[08Jul2025 01:00:04.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo lost connection: Timed out
+[08Jul2025 01:00:04.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo left the game
+[08Jul2025 01:00:18.846] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@466bb9e2[id=<null>,name=Cucholindo,properties={},legacy=false] (/172.23.7.92:64334) lost connection: Disconnected
+[08Jul2025 01:00:24.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 01:00:36.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cucholindo[/172.23.7.92:64350] logged in with entity id 339477 at (40.680630078297746, 73.16610926093821, 753.5376159651418)
+[08Jul2025 01:00:36.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo joined the game
+[08Jul2025 01:00:36.753] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Cucholindo'/339477, l='ServerLevel[world]', x=40.68, y=73.17, z=753.54, removed=KILLED]
+[08Jul2025 01:01:10.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[08Jul2025 01:01:11.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 was slain by Vampire Hunter
+[08Jul2025 01:01:12.090] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 01:01:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Cucholindo]
+[08Jul2025 01:01:30.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[08Jul2025 01:01:50.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4941ms or 98 ticks behind
+[08Jul2025 01:02:03.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has reached the goal [Easy Opening]
+[08Jul2025 01:02:31.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Skeleton
+[08Jul2025 01:02:32.165] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[08Jul2025 01:02:32.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08Jul2025 01:02:47.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Cucholindo]
+[08Jul2025 01:02:59.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[08Jul2025 01:03:07.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo was slain by Skeleton
+[08Jul2025 01:03:07.950] [Server thread/INFO] [tombstone/]: The player Cucholindo has successfully been saved
+[08Jul2025 01:03:17.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Cucholindo]
+[08Jul2025 01:03:23.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jul2025 01:03:41.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 was slain by Zombie
+[08Jul2025 01:03:41.472] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 01:03:43.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
+[08Jul2025 01:03:44.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Cucholindo]
+[08Jul2025 01:03:51.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to lion_799]
+[08Jul2025 01:04:36.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jul2025 01:05:26.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cucholindo> asd
+[08Jul2025 01:06:28.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[08Jul2025 01:06:29.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule playersSleepingPercentage is now set to: 67]
+[08Jul2025 01:06:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 640 [Dirt] to lion_799]
+[08Jul2025 01:07:16.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
