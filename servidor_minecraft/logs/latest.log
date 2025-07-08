@@ -1256,3 +1256,34 @@
 [08Jul2025 01:39:44.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
 [08Jul2025 01:45:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 drowned
 [08Jul2025 01:45:50.096] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 01:51:01.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to lion_799]
+[08Jul2025 01:51:30.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 446.500000, 83.500000, 3236.500000]
+[08Jul2025 01:52:11.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[08Jul2025 01:52:17.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 01:52:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 01:52:20.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to lion_799]
+[08Jul2025 01:52:46.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 01:52:48.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Damaged Anvil] to Kazuruki]
+[08Jul2025 01:52:56.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Pickaxe] to Kazuruki]
+[08Jul2025 01:53:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Enchanted Book] to Kazuruki]
+[08Jul2025 01:53:29.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Timed out
+[08Jul2025 01:53:29.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[08Jul2025 01:53:45.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/172.23.15.27:55385] logged in with entity id 433450 at (-88.5852872224021, 60.0, 855.8560344025731)
+[08Jul2025 01:53:45.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[08Jul2025 01:54:39.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 01:54:53.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Efficiency V to Kazuruki's item]
+[08Jul2025 01:55:01.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Unbreaking III to Kazuruki's item]
+[08Jul2025 01:55:07.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -627.500000, 92.500000, -1127.500000]
+[08Jul2025 01:55:13.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 446.500000, 83.500000, 3236.500000]
+[08Jul2025 01:55:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[08Jul2025 01:55:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 01:55:33.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 01:55:36.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[08Jul2025 01:55:42.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[08Jul2025 01:56:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[08Jul2025 01:56:05.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 01:56:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lion_799> -96.51.866
+[08Jul2025 01:57:47.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 was slain by Vampire
+[08Jul2025 01:57:47.844] [Server thread/INFO] [tombstone/]: The player lion_799 has successfully been saved
+[08Jul2025 01:58:01.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Timed out
+[08Jul2025 01:58:01.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
