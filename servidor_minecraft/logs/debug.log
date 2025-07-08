@@ -12011,3 +12011,30 @@ java.lang.Throwable: null
 [08Jul2025 01:17:00.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 01:17:00.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jul2025 01:17:06.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Unbreaking III to lion_799's item]
+[08Jul2025 01:18:50.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:18:53.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:19:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 402 block(s)]
+[08Jul2025 01:20:49.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 120 block(s)]
+[08Jul2025 01:20:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 241 block(s)]
+[08Jul2025 01:22:00.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:22:00.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:22:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 121 block(s)]
+[08Jul2025 01:23:57.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Successfully filled 240 block(s)]
+[08Jul2025 01:24:55.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Hot Stuff]
+[08Jul2025 01:27:00.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:27:00.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:29:37.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:29:43.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:06.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:10.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:12.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:18.748] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:21.247] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:25.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:28.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:33.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:30:37.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 01:32:00.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:32:00.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:37:00.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:37:00.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
