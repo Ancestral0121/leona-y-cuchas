@@ -7570,3 +7570,130 @@ java.lang.Throwable: null
 [07Jul2025 23:54:13.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
 [07Jul2025 23:54:27.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Efficiency II to lion_799's item]
 [07Jul2025 23:54:33.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5348ms or 106 ticks behind
+[07Jul2025 23:54:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Mending to lion_799's item]
+[07Jul2025 23:54:54.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6438ms or 128 ticks behind
+[07Jul2025 23:55:14.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4992ms or 99 ticks behind
+[07Jul2025 23:55:34.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[07Jul2025 23:55:36.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:39.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:39.429] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:39.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:39.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:40.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:40.226] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:40.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:40.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:55:54.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5143ms or 102 ticks behind
+[07Jul2025 23:56:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
+[07Jul2025 23:56:13.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cucholindo has made the advancement [Stone Age]
+[07Jul2025 23:56:15.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6228ms or 124 ticks behind
+[07Jul2025 23:56:35.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5454ms or 109 ticks behind
+[07Jul2025 23:56:55.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
+[07Jul2025 23:57:08.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! -0.0446200784414259,0.0,-10.01959870038013
+[07Jul2025 23:57:16.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5396ms or 107 ticks behind
+[07Jul2025 23:57:36.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5511ms or 110 ticks behind
+[07Jul2025 23:57:41.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:57:53.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cucholindo moved too quickly! 7.779774069364407,-0.8660233650462743,-6.346867091480817
+[07Jul2025 23:57:58.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6299ms or 125 ticks behind
+[07Jul2025 23:58:19.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6112ms or 122 ticks behind
+[07Jul2025 23:58:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cucholindo> *lo nalguea*
+[07Jul2025 23:58:23.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:58:40.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6243ms or 124 ticks behind
+[07Jul2025 23:58:47.484] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:47.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:47.621] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:47.695] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:47.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:47.836] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:47.911] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:47.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Jul2025 23:58:53.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:58:53.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:59:03.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7885ms or 157 ticks behind
+[07Jul2025 23:59:15.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:16.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:16.247] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:16.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:16.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:16.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:16.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:17.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:17.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:17.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:17.874] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:19.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:24.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5937ms or 118 ticks behind
+[07Jul2025 23:59:24.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:26.796] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Jul2025 23:59:43.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3916ms or 78 ticks behind
+[08Jul2025 00:00:00.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[08Jul2025 00:00:18.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[08Jul2025 00:00:35.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[08Jul2025 00:00:39.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[08Jul2025 00:00:43.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 00:00:44.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.8123741137744958,0.0,10.170535873977315
+[08Jul2025 00:00:44.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 0.7979177393178816,0.0,10.56754075559354
+[08Jul2025 00:00:54.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jul2025 00:01:12.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
+[08Jul2025 00:01:21.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.084848373523641,0.0,1.424640859197666
+[08Jul2025 00:01:21.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.374818228127616,0.0,1.4446741137212484
+[08Jul2025 00:01:21.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.63579109035777,0.0,1.46270404231484
+[08Jul2025 00:01:21.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 10.870666660142831,0.0,1.4789309776192567
+[08Jul2025 00:01:21.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.082054667349517,0.0,1.4935352190063895
+[08Jul2025 00:01:21.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.272303868795653,0.0,1.5066790359065863
+[08Jul2025 00:01:21.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.443528145561281,0.0,1.51850847080334
+[08Jul2025 00:01:21.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.597629990568038,0.0,1.5291549619283842
+[08Jul2025 00:01:21.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.736321647400047,0.0,1.5387368036871294
+[08Jul2025 00:01:21.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.861144135242192,0.0,1.547360461041535
+[08Jul2025 00:01:21.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 11.973484371324119,0.0,1.555121752454852
+[08Jul2025 00:01:21.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.074590581119452,0.0,1.5621069145418005
+[08Jul2025 00:01:21.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cucholindo) moved too quickly! 12.165586167524694,0.0,1.5683935602535257
+[08Jul2025 00:01:29.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[08Jul2025 00:01:42.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:42.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:42.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:42.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:43.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:44.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:44.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:44.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:45.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:45.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:45.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:45.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:45.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:46.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:46.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:46.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:46.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:46.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:47.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:47.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:47.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:47.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:01:48.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4131ms or 82 ticks behind
+[08Jul2025 00:02:07.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3389ms or 67 ticks behind
+[08Jul2025 00:02:24.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[08Jul2025 00:02:24.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[08Jul2025 00:02:30.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[08Jul2025 00:02:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Iron Pickaxe] to lion_799]
+[08Jul2025 00:02:45.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[08Jul2025 00:02:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied enchantment Efficiency II to lion_799's item]
+[08Jul2025 00:03:02.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[08Jul2025 00:03:20.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
+[08Jul2025 00:03:37.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
+[08Jul2025 00:03:40.507] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[08Jul2025 00:03:40.605] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[08Jul2025 00:03:40.643] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[08Jul2025 00:03:40.762] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[08Jul2025 00:03:40.806] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[08Jul2025 00:03:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cucholindo> 6
+[08Jul2025 00:03:56.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[08Jul2025 00:04:13.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[08Jul2025 00:04:31.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[08Jul2025 00:04:49.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[08Jul2025 00:04:52.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:04:52.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:04:52.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:05:00.670] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Jul2025 00:05:00.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
