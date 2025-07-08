@@ -49,7 +49,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-07-08 00:41:44 +0000",
+      "rocky_shrubland": "2025-07-08 00:41:38 +0000",
       "jacaranda_glade": "2025-07-08 00:20:38 +0000",
+      "orchard": "2025-07-08 00:38:47 +0000",
       "coniferous_forest": "2025-07-07 23:17:15 +0000",
       "seasonal_forest": "2025-07-07 23:15:11 +0000",
       "lavender_field": "2025-07-08 00:05:30 +0000",
@@ -903,9 +906,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-07-08 00:37:10 +0000",
       "minecraft:sunflower_plains": "2025-07-08 00:20:50 +0000",
+      "minecraft:beach": "2025-07-08 00:41:58 +0000",
       "minecraft:river": "2025-07-07 23:45:24 +0000",
+      "minecraft:cold_ocean": "2025-07-08 00:36:39 +0000",
       "minecraft:forest": "2025-07-07 23:41:53 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-08 00:36:57 +0000",
+      "minecraft:ocean": "2025-07-08 00:38:21 +0000",
+      "minecraft:flower_forest": "2025-07-08 00:35:46 +0000",
       "minecraft:deep_dark": "2025-07-08 00:06:49 +0000",
       "minecraft:plains": "2025-07-07 23:41:10 +0000"
     },
@@ -2836,9 +2845,10 @@
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
-      "requirement_2": "2025-07-08 00:12:53 +0000"
+      "requirement_2": "2025-07-08 00:12:53 +0000",
+      "requirement_1": "2025-07-08 00:38:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
@@ -2966,15 +2976,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-08 00:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-08 00:29:05 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-07-08 00:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-08 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
     },
     "done": true
   },
@@ -2990,15 +3090,39 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-08 00:29:18 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
     "criteria": {
       "has_wheat_seeds": "2025-07-08 00:31:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-08 00:40:07 +0000"
     },
     "done": true
   },
@@ -3014,15 +3138,69 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-08 00:38:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-08 00:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-07-08 00:29:18 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-07-08 00:29:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
     },
     "done": true
   },
@@ -3038,15 +3216,87 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
     "criteria": {
       "has_amulet": "2025-07-08 00:29:13 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-08 00:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-08 00:29:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-07-08 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-08 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 00:45:05 +0000"
     },
     "done": true
   },
