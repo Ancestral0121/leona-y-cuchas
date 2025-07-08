@@ -4298,6 +4298,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 02:26:01 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cursed_spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-08 02:04:45 +0000"
