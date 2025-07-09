@@ -3675,6 +3675,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 02:26:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-07-08 02:32:37 +0000"
@@ -3705,12 +3711,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-07-08 02:26:11 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-07-08 02:32:37 +0000"
@@ -3726,6 +3726,12 @@
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-07-08 02:32:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-07-09 20:38:56 +0000"
     },
     "done": true
   },
