@@ -278,3 +278,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 22:51:35.474] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [09Jul2025 22:51:35.474] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [09Jul2025 22:59:59.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e6d5e61[id=<null>,name=Kazuruki,properties={},legacy=false] (/172.23.15.27:56816) lost connection: Disconnected
+[09Jul2025 23:01:48.791] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[09Jul2025 23:01:48.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lion_799[/172.23.99.247:62455] logged in with entity id 1176 at (-31.30000001192093, 66.0, 931.2413579203475)
+[09Jul2025 23:01:48.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 joined the game
+[09Jul2025 23:02:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jul2025 23:02:05.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY PINCHE RATA PUTA<--[HERE]
+[09Jul2025 23:02:16.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion_799 lost connection: Disconnected
+[09Jul2025 23:02:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 left the game
+[09Jul2025 23:05:07.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/172.23.15.27:57221] logged in with entity id 1363 at (442.97212880034914, 73.0, 3285.853589984165)
+[09Jul2025 23:05:07.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[09Jul2025 23:05:09.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
+[09Jul2025 23:05:14.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Below animations are missing or don't exist in the server
+
+dualgreatswords:biped/combat/greatsword_dual_auto_1
+dualgreatswords:biped/combat/greatsword_dual_auto_2
+dualgreatswords:biped/combat/greatsword_dual_auto_3
+dualgreatswords:biped/combat/greatsword_dual_auto_4
+dualgreatswords:biped/living/greatsword_dual_idle
+dualgreatswords:biped/skill/greatsword_dual_earthquake
+dualgreatswords:biped/living/greatsword_dual_run
+dualgreatswords:biped/combat/greatsword_dual_airslash
+dualgreatswords:biped/combat/greatsword_dual_dash
+dualgreatswords:biped/living/greatsword_dual_walk
+
+Please check the resource packs that you're missing or unload the packs that the server doesn't have
+[09Jul2025 23:05:14.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[09Jul2025 23:08:08.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lion_799[/172.23.99.247:63076] logged in with entity id 1816 at (-31.30000001192093, 66.0, 931.2413579203475)
+[09Jul2025 23:08:08.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 joined the game
+[09Jul2025 23:08:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jul2025 23:08:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY QUE NO LION SALTE A LA VERGA<--[HERE]
+[09Jul2025 23:08:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jul2025 23:08:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: say<--[HERE]
+[09Jul2025 23:08:24.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] q
+[09Jul2025 23:08:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] SALTE A LA VERGA LION
+[09Jul2025 23:08:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked lion_799: Kicked by an operator
+[09Jul2025 23:08:43.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion_799 lost connection: Kicked by an operator
+[09Jul2025 23:08:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 left the game

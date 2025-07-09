@@ -4293,36 +4293,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_feather": "2025-07-08 02:32:35 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-08 02:32:35 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_feather": "2025-07-08 02:32:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-07-08 02:13:14 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-07-08 02:26:01 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/building_blocks/cursed_spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-08 02:04:45 +0000"
@@ -4341,39 +4311,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-07-08 02:09:39 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
     "criteria": {
       "has_planks": "2025-07-08 02:04:45 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_bolt": {
-    "criteria": {
-      "has_feather": "2025-07-08 02:32:35 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/redstone/cursed_spruce_button": {
     "criteria": {
       "has_planks": "2025-07-08 02:04:45 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-08 02:32:35 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-08 02:32:35 +0000"
     },
     "done": true
   },
@@ -4386,6 +4332,60 @@
   "vampirism:recipes/redstone/cursed_spruce_door": {
     "criteria": {
       "has_planks": "2025-07-08 02:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-08 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-08 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 02:26:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-07-08 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-08 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-08 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-08 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-08 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-08 02:32:35 +0000"
     },
     "done": true
   },
