@@ -5748,3 +5748,7 @@ Please check the resource packs that you're missing or unload the packs that the
 [09Jul2025 23:08:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked lion_799: Kicked by an operator
 [09Jul2025 23:08:43.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion_799 lost connection: Kicked by an operator
 [09Jul2025 23:08:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 left the game
+[09Jul2025 23:11:37.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 23:11:37.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 23:16:37.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 23:16:37.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
