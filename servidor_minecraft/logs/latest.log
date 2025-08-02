@@ -398,3 +398,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Aug2025 20:49:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /coshat
 [02Aug2025 20:49:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
 [02Aug2025 20:49:39.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[02Aug2025 21:28:37.547] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sereneseasons:main,glitchcore:config_sync] rejected their client side version number
+[02Aug2025 21:28:37.548] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Aug2025 21:28:37.594] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12b7fbcb[id=<null>,name=Cucholindo,properties={},legacy=false] (/172.23.7.92:61675) lost connection: Connection closed - mismatched mod channel list
+[02Aug2025 21:28:56.073] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sereneseasons:main,glitchcore:config_sync] rejected their client side version number
+[02Aug2025 21:28:56.074] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Aug2025 21:28:56.089] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@202a81dc[id=<null>,name=Cucholindo,properties={},legacy=false] (/172.23.7.92:61691) lost connection: Connection closed - mismatched mod channel list
+[02Aug2025 21:29:07.079] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sereneseasons:main,glitchcore:config_sync] rejected their client side version number
+[02Aug2025 21:29:07.079] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Aug2025 21:29:07.089] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c761109[id=<null>,name=Cucholindo,properties={},legacy=false] (/172.23.7.92:61706) lost connection: Connection closed - mismatched mod channel list
