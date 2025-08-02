@@ -1,91 +1,89 @@
-[09Jul2025 22:50:31.060] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.3, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Jul2025 22:50:31.063] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[09Jul2025 22:50:31.924] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Jul2025 22:50:31.972] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/leona-y-cuchas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09Jul2025 22:50:32.383] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.3/fmlcore-1.20.1-47.4.3.jar is missing mods.toml file
-[09Jul2025 22:50:32.386] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.3/javafmllanguage-1.20.1-47.4.3.jar is missing mods.toml file
-[09Jul2025 22:50:32.388] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.3/lowcodelanguage-1.20.1-47.4.3.jar is missing mods.toml file
-[09Jul2025 22:50:32.389] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.3/mclanguage-1.20.1-47.4.3.jar is missing mods.toml file
-[09Jul2025 22:50:32.794] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[09Jul2025 22:50:32.795] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[09Jul2025 22:50:35.963] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09Jul2025 22:50:36.167] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[09Jul2025 22:50:36.169] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[09Jul2025 22:50:36.332] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 120 options available, 0 override(s) found
-[09Jul2025 22:50:38.287] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[09Jul2025 22:50:38.288] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[09Jul2025 22:50:38.289] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[09Jul2025 22:50:38.290] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[09Jul2025 22:50:38.291] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[09Jul2025 22:50:38.292] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[09Jul2025 22:50:38.293] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[09Jul2025 22:50:38.294] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[09Jul2025 22:50:38.419] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[09Jul2025 22:50:40.983] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[09Jul2025 22:50:40.983] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[09Jul2025 22:50:42.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[09Jul2025 22:50:42.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[09Jul2025 22:50:42.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[09Jul2025 22:50:42.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[09Jul2025 22:50:43.607] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[02Aug2025 20:45:14.471] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.3, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Aug2025 20:45:14.476] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[02Aug2025 20:45:23.693] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Aug2025 20:45:23.823] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/leona-y-cuchas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Aug2025 20:45:24.383] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.3/fmlcore-1.20.1-47.4.3.jar is missing mods.toml file
+[02Aug2025 20:45:24.385] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.3/javafmllanguage-1.20.1-47.4.3.jar is missing mods.toml file
+[02Aug2025 20:45:24.386] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.3/lowcodelanguage-1.20.1-47.4.3.jar is missing mods.toml file
+[02Aug2025 20:45:24.387] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.3/mclanguage-1.20.1-47.4.3.jar is missing mods.toml file
+[02Aug2025 20:45:25.118] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02Aug2025 20:45:25.119] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[02Aug2025 20:45:28.605] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Aug2025 20:45:28.785] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[02Aug2025 20:45:28.787] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Aug2025 20:45:29.074] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 120 options available, 0 override(s) found
+[02Aug2025 20:45:31.309] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[02Aug2025 20:45:31.310] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[02Aug2025 20:45:31.310] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[02Aug2025 20:45:31.311] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[02Aug2025 20:45:31.311] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[02Aug2025 20:45:31.311] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[02Aug2025 20:45:31.312] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[02Aug2025 20:45:31.313] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[02Aug2025 20:45:31.549] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02Aug2025 20:45:35.183] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[02Aug2025 20:45:35.183] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[02Aug2025 20:45:37.101] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[02Aug2025 20:45:37.102] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[02Aug2025 20:45:37.102] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[02Aug2025 20:45:37.102] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[02Aug2025 20:45:37.950] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[09Jul2025 22:50:44.349] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[09Jul2025 22:50:44.357] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[09Jul2025 22:50:44.370] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[09Jul2025 22:50:44.680] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[09Jul2025 22:50:44.683] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: VampirismCompat
-[09Jul2025 22:50:44.801] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
-[09Jul2025 22:50:45.211] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[09Jul2025 22:50:45.214] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[09Jul2025 22:50:45.216] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[09Jul2025 22:50:45.220] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[09Jul2025 22:50:45.238] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[09Jul2025 22:50:45.239] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[09Jul2025 22:50:45.240] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[09Jul2025 22:50:45.251] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[09Jul2025 22:50:45.581] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.3, for MC 1.20.1 with MCP 20230612.114412
-[09Jul2025 22:50:45.581] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.3 Initialized
-[09Jul2025 22:50:45.650] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[09Jul2025 22:50:45.650] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[09Jul2025 22:50:46.016] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
-[09Jul2025 22:50:46.042] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
-[09Jul2025 22:50:46.591] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[09Jul2025 22:50:46.716] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[09Jul2025 22:50:47.000] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[09Jul2025 22:50:47.000] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[09Jul2025 22:50:47.003] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[09Jul2025 22:50:47.137] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[09Jul2025 22:50:47.184] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[09Jul2025 22:50:47.184] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[09Jul2025 22:50:47.223] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[09Jul2025 22:50:47.406] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[09Jul2025 22:50:48.432] [main/INFO] [de.teamlapen.vampirism.config.BalanceBuilder/]: Building balance configuration with 24 modifications
-[09Jul2025 22:50:54.952] [main/INFO] [Moonlight/]: Initialized block sets in 23ms
-[09Jul2025 22:50:56.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[09Jul2025 22:50:56.214] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[09Jul2025 22:50:56.240] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.240] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.240] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.240] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.241] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.241] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.241] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.241] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.241] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[09Jul2025 22:50:56.452] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[09Jul2025 22:50:56.499] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[09Jul2025 22:50:56.511] [Thread-4/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[09Jul2025 22:50:56.514] [Thread-4/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[09Jul2025 22:50:56.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[09Jul2025 22:50:56.612] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
-[09Jul2025 22:50:56.614] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
-[09Jul2025 22:50:56.614] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
-[09Jul2025 22:50:56.614] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
-[09Jul2025 22:50:56.614] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
-[09Jul2025 22:50:56.667] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[09Jul2025 22:50:56.694] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[09Jul2025 22:50:56.724] [Thread-5/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
-[09Jul2025 22:50:56.758] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[02Aug2025 20:45:38.655] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[02Aug2025 20:45:38.690] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[02Aug2025 20:45:38.719] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[02Aug2025 20:45:39.007] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[02Aug2025 20:45:39.008] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: VampirismCompat
+[02Aug2025 20:45:39.013] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[02Aug2025 20:45:39.460] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Aug2025 20:45:39.469] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[02Aug2025 20:45:39.478] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[02Aug2025 20:45:39.482] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[02Aug2025 20:45:39.483] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[02Aug2025 20:45:39.483] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[02Aug2025 20:45:39.486] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[02Aug2025 20:45:39.488] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[02Aug2025 20:45:39.646] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.3, for MC 1.20.1 with MCP 20230612.114412
+[02Aug2025 20:45:39.649] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.3 Initialized
+[02Aug2025 20:45:39.772] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[02Aug2025 20:45:39.772] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[02Aug2025 20:45:40.017] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[02Aug2025 20:45:40.034] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[02Aug2025 20:45:40.602] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[02Aug2025 20:45:40.722] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[02Aug2025 20:45:40.939] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[02Aug2025 20:45:40.940] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[02Aug2025 20:45:40.940] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[02Aug2025 20:45:41.085] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[02Aug2025 20:45:41.254] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[02Aug2025 20:45:41.300] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[02Aug2025 20:45:41.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[02Aug2025 20:45:41.356] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02Aug2025 20:45:42.920] [main/INFO] [de.teamlapen.vampirism.config.BalanceBuilder/]: Building balance configuration with 24 modifications
+[02Aug2025 20:45:49.535] [main/INFO] [Moonlight/]: Initialized block sets in 21ms
+[02Aug2025 20:45:50.753] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[02Aug2025 20:45:50.841] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[02Aug2025 20:45:50.867] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.868] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.868] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.868] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.868] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.869] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.869] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.869] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:50.869] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[02Aug2025 20:45:51.099] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[02Aug2025 20:45:51.140] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[02Aug2025 20:45:51.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[02Aug2025 20:45:51.263] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
+[02Aug2025 20:45:51.264] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
+[02Aug2025 20:45:51.265] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
+[02Aug2025 20:45:51.266] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
+[02Aug2025 20:45:51.266] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
+[02Aug2025 20:45:51.302] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[02Aug2025 20:45:51.350] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[02Aug2025 20:45:51.383] [Thread-5/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
+[02Aug2025 20:45:51.391] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -100,217 +98,303 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[09Jul2025 22:50:56.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[09Jul2025 22:50:56.897] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[09Jul2025 22:50:56.897] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[09Jul2025 22:50:56.897] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[09Jul2025 22:50:56.897] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[09Jul2025 22:50:56.897] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[09Jul2025 22:50:56.897] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[09Jul2025 22:50:56.898] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[09Jul2025 22:50:56.898] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[09Jul2025 22:50:56.898] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[09Jul2025 22:50:57.023] [main/INFO] [Moonlight/]: Initialized color sets in 48ms
-[09Jul2025 22:50:57.026] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[09Jul2025 22:50:57.027] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[09Jul2025 22:50:57.027] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[09Jul2025 22:50:57.027] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[09Jul2025 22:50:57.027] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[09Jul2025 22:50:57.027] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[09Jul2025 22:50:57.027] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[09Jul2025 22:50:57.107] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[09Jul2025 22:50:57.108] [main/INFO] [terrablender/]: Registered region vampirism:overworld to index 4 for type OVERWORLD
-[09Jul2025 22:50:57.109] [main/INFO] [de.teamlapen.vampirism.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
-[09Jul2025 22:50:57.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.7+mod Target: null
-[09Jul2025 22:50:57.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Jul2025 22:50:57.129] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[09Jul2025 22:50:57.130] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[09Jul2025 22:50:57.132] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[09Jul2025 22:50:57.132] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[09Jul2025 22:50:57.184] [main/INFO] [citadel/]: adding citadel surface rules via terrablender...
-[09Jul2025 22:50:57.185] [main/INFO] [citadel/]: Added 0 vanilla biome surface rule types via terrablender
-[09Jul2025 22:50:57.185] [main/INFO] [citadel/]: Added 1 modded biome surface rule types via terrablender
-[09Jul2025 22:50:57.186] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[09Jul2025 22:50:57.187] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Vampirism Biomes are added via TerraBlender. Not adding them to overworld preset.
-[09Jul2025 22:50:57.303] [Thread-5/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Did not find a version of type RELEASE for 1.20.1 (null)
-[09Jul2025 22:50:57.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.4.3 Target: null
-[09Jul2025 22:50:57.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[09Jul2025 22:50:57.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[09Jul2025 22:50:57.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[09Jul2025 22:50:57.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.11 Target: null
-[09Jul2025 22:50:57.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
-[09Jul2025 22:50:57.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Found status: UP_TO_DATE Current: 5.9.1 Target: null
-[09Jul2025 22:50:57.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[09Jul2025 22:50:58.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[09Jul2025 22:50:58.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[09Jul2025 22:50:58.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[09Jul2025 22:50:58.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[09Jul2025 22:50:58.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.0.1 Target: 9.0.2
-[09Jul2025 22:50:58.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
-[09Jul2025 22:50:58.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.13 Target: null
-[09Jul2025 22:50:58.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Starting version check at https://api.modrinth.com/updates/vampirism-integrations/forge_updates.json
-[09Jul2025 22:50:58.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Found status: UP_TO_DATE Current: 1.8.0 Target: null
-[09Jul2025 22:50:58.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
-[09Jul2025 22:50:59.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: UP_TO_DATE Current: 3.9.5 Target: null
-[09Jul2025 22:50:59.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclic] Starting version check at https://raw.githubusercontent.com/Lothrazar/cyclic/trunk/1.20.1/update.json
-[09Jul2025 22:50:59.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclic] Found status: BETA Current: 1.13.6 Target: 1.13.5
-[09Jul2025 22:51:03.056] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Jul2025 22:51:07.071] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/assets/.mcassetsroot' uses unexpected schema
-[09Jul2025 22:51:07.072] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/data/.mcassetsroot' uses unexpected schema
-[09Jul2025 22:51:10.480] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/leona-y-cuchas/servidor_minecraft/tacz
-[09Jul2025 22:51:10.482] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[09Jul2025 22:51:10.482] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[09Jul2025 22:51:11.186] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[09Jul2025 22:51:12.108] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[09Jul2025 22:51:12.191] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[09Jul2025 22:51:12.341] [Worker-Main-4/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-9.0.1.jar
-[09Jul2025 22:51:12.411] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:dragon_immune as it is missing following references: cataclysm:polished_obsidian_walls (from L_Enders_Cataclysm-3.06.jar)
-[09Jul2025 22:51:13.143] [Worker-Main-5/INFO] [epicfight/]: Register animations from epicfight
-[09Jul2025 22:51:13.567] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[09Jul2025 22:51:14.041] [Worker-Main-5/INFO] [epicfight/]: Register animations from wom
-[09Jul2025 22:51:14.047] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[09Jul2025 22:51:14.928] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[09Jul2025 22:51:16.034] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[09Jul2025 22:51:16.041] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
-[09Jul2025 22:51:16.124] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[09Jul2025 22:51:16.147] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[09Jul2025 22:51:16.147] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[09Jul2025 22:51:16.152] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[09Jul2025 22:51:16.153] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[09Jul2025 22:51:16.212] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[09Jul2025 22:51:16.232] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[09Jul2025 22:51:16.236] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[09Jul2025 22:51:16.245] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[09Jul2025 22:51:16.245] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[09Jul2025 22:51:16.262] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[09Jul2025 22:51:16.262] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[09Jul2025 22:51:16.270] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[09Jul2025 22:51:16.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[09Jul2025 22:51:16.300] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[09Jul2025 22:51:16.300] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[09Jul2025 22:51:16.306] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[09Jul2025 22:51:16.328] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[09Jul2025 22:51:16.328] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[09Jul2025 22:51:16.333] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[09Jul2025 22:51:16.333] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[09Jul2025 22:51:16.334] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[09Jul2025 22:51:16.334] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[09Jul2025 22:51:16.338] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[09Jul2025 22:51:16.341] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[09Jul2025 22:51:16.341] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[09Jul2025 22:51:16.350] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[09Jul2025 22:51:16.350] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[09Jul2025 22:51:16.371] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[09Jul2025 22:51:16.371] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[09Jul2025 22:51:16.371] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[09Jul2025 22:51:16.371] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[09Jul2025 22:51:16.380] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[09Jul2025 22:51:16.380] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[09Jul2025 22:51:16.400] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[09Jul2025 22:51:16.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[09Jul2025 22:51:16.408] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[09Jul2025 22:51:16.419] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[09Jul2025 22:51:16.420] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[09Jul2025 22:51:16.459] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[09Jul2025 22:51:16.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[09Jul2025 22:51:16.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[09Jul2025 22:51:16.468] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[09Jul2025 22:51:16.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[09Jul2025 22:51:16.469] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[09Jul2025 22:51:16.470] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[09Jul2025 22:51:16.481] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[09Jul2025 22:51:16.488] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
-[09Jul2025 22:51:16.556] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[09Jul2025 22:51:16.657] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[09Jul2025 22:51:16.695] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[09Jul2025 22:51:16.710] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[09Jul2025 22:51:16.807] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5143 advancements
-[09Jul2025 22:51:17.026] [main/WARN] [epicfight/]: Error while deserializing datapack for magistuarmory:silver_morgenstern
-[09Jul2025 22:51:17.143] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[09Jul2025 22:51:17.167] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[09Jul2025 22:51:17.176] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[09Jul2025 22:51:17.178] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[02Aug2025 20:45:51.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[02Aug2025 20:45:51.573] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[02Aug2025 20:45:51.574] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[02Aug2025 20:45:51.574] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[02Aug2025 20:45:51.574] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[02Aug2025 20:45:51.574] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[02Aug2025 20:45:51.574] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[02Aug2025 20:45:51.575] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[02Aug2025 20:45:51.575] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[02Aug2025 20:45:51.575] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[02Aug2025 20:45:51.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.7+mod Target: null
+[02Aug2025 20:45:51.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Aug2025 20:45:51.716] [main/INFO] [Moonlight/]: Initialized color sets in 50ms
+[02Aug2025 20:45:51.719] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02Aug2025 20:45:51.719] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02Aug2025 20:45:51.719] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[02Aug2025 20:45:51.719] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[02Aug2025 20:45:51.719] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[02Aug2025 20:45:51.720] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02Aug2025 20:45:51.720] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02Aug2025 20:45:51.812] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[02Aug2025 20:45:51.813] [main/INFO] [terrablender/]: Registered region vampirism:overworld to index 4 for type OVERWORLD
+[02Aug2025 20:45:51.814] [main/INFO] [de.teamlapen.vampirism.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
+[02Aug2025 20:45:51.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.4.3 Target: 47.4.5
+[02Aug2025 20:45:51.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[02Aug2025 20:45:51.911] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02Aug2025 20:45:51.913] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02Aug2025 20:45:51.917] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02Aug2025 20:45:51.917] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02Aug2025 20:45:52.000] [main/INFO] [citadel/]: adding citadel surface rules via terrablender...
+[02Aug2025 20:45:52.001] [main/INFO] [citadel/]: Added 0 vanilla biome surface rule types via terrablender
+[02Aug2025 20:45:52.002] [main/INFO] [citadel/]: Added 1 modded biome surface rule types via terrablender
+[02Aug2025 20:45:52.005] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[02Aug2025 20:45:52.005] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Vampirism Biomes are added via TerraBlender. Not adding them to overworld preset.
+[02Aug2025 20:45:52.176] [Thread-5/INFO] [de.teamlapen.lib.lib.util.VersionChecker/]: Did not find a version of type RELEASE for 1.20.1 (null)
+[02Aug2025 20:45:52.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[02Aug2025 20:45:52.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[02Aug2025 20:45:52.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.11 Target: null
+[02Aug2025 20:45:52.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
+[02Aug2025 20:45:52.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Found status: UP_TO_DATE Current: 5.9.1 Target: null
+[02Aug2025 20:45:52.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[02Aug2025 20:45:52.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[02Aug2025 20:45:52.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[02Aug2025 20:45:52.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[02Aug2025 20:45:52.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Aug2025 20:45:52.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 9.0.1 Target: 9.0.6
+[02Aug2025 20:45:52.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[02Aug2025 20:45:52.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.13 Target: null
+[02Aug2025 20:45:52.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Starting version check at https://api.modrinth.com/updates/vampirism-integrations/forge_updates.json
+[02Aug2025 20:45:53.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism_integrations] Found status: UP_TO_DATE Current: 1.8.0 Target: null
+[02Aug2025 20:45:53.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[02Aug2025 20:45:53.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: UP_TO_DATE Current: 3.9.5 Target: null
+[02Aug2025 20:45:53.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclic] Starting version check at https://raw.githubusercontent.com/Lothrazar/cyclic/trunk/1.20.1/update.json
+[02Aug2025 20:45:53.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclic] Found status: BETA Current: 1.13.6 Target: 1.13.5
+[02Aug2025 20:45:58.060] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Aug2025 20:46:03.050] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/assets/.mcassetsroot' uses unexpected schema
+[02Aug2025 20:46:03.050] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/leona-y-cuchas/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/data/.mcassetsroot' uses unexpected schema
+[02Aug2025 20:46:21.074] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/leona-y-cuchas/servidor_minecraft/tacz
+[02Aug2025 20:46:21.076] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[02Aug2025 20:46:21.076] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[02Aug2025 20:46:21.852] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[02Aug2025 20:46:22.846] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[02Aug2025 20:46:22.928] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02Aug2025 20:46:23.141] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-9.0.1.jar
+[02Aug2025 20:46:23.166] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:dragon_immune as it is missing following references: cataclysm:polished_obsidian_walls (from L_Enders_Cataclysm-3.06.jar)
+[02Aug2025 20:46:23.965] [Worker-Main-3/INFO] [epicfight/]: Register animations from epicfight
+[02Aug2025 20:46:24.980] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[02Aug2025 20:46:25.253] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[02Aug2025 20:46:25.299] [Worker-Main-3/INFO] [epicfight/]: Register animations from wom
+[02Aug2025 20:46:25.940] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[02Aug2025 20:46:26.887] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[02Aug2025 20:46:26.893] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
+[02Aug2025 20:46:26.992] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[02Aug2025 20:46:27.009] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[02Aug2025 20:46:27.009] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[02Aug2025 20:46:27.012] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[02Aug2025 20:46:27.012] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[02Aug2025 20:46:27.037] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[02Aug2025 20:46:27.049] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[02Aug2025 20:46:27.053] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[02Aug2025 20:46:27.064] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[02Aug2025 20:46:27.064] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[02Aug2025 20:46:27.080] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[02Aug2025 20:46:27.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[02Aug2025 20:46:27.088] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[02Aug2025 20:46:27.089] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[02Aug2025 20:46:27.149] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[02Aug2025 20:46:27.150] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[02Aug2025 20:46:27.160] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[02Aug2025 20:46:27.186] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[02Aug2025 20:46:27.187] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[02Aug2025 20:46:27.191] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[02Aug2025 20:46:27.191] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[02Aug2025 20:46:27.193] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[02Aug2025 20:46:27.193] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[02Aug2025 20:46:27.195] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[02Aug2025 20:46:27.197] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[02Aug2025 20:46:27.197] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[02Aug2025 20:46:27.206] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[02Aug2025 20:46:27.206] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[02Aug2025 20:46:27.231] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[02Aug2025 20:46:27.232] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[02Aug2025 20:46:27.232] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[02Aug2025 20:46:27.232] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[02Aug2025 20:46:27.242] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[02Aug2025 20:46:27.242] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[02Aug2025 20:46:27.265] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[02Aug2025 20:46:27.265] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[02Aug2025 20:46:27.273] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[02Aug2025 20:46:27.283] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[02Aug2025 20:46:27.284] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[02Aug2025 20:46:27.307] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[02Aug2025 20:46:27.308] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[02Aug2025 20:46:27.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[02Aug2025 20:46:27.315] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[02Aug2025 20:46:27.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[02Aug2025 20:46:27.316] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[02Aug2025 20:46:27.317] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[02Aug2025 20:46:27.325] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[02Aug2025 20:46:27.330] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
+[02Aug2025 20:46:27.378] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[02Aug2025 20:46:27.445] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[02Aug2025 20:46:27.478] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[02Aug2025 20:46:27.487] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[02Aug2025 20:46:27.531] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5143 advancements
+[02Aug2025 20:46:27.666] [main/WARN] [epicfight/]: Error while deserializing datapack for magistuarmory:silver_morgenstern
+[02Aug2025 20:46:27.788] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[02Aug2025 20:46:27.809] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[02Aug2025 20:46:27.817] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[02Aug2025 20:46:27.818] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[09Jul2025 22:51:17.180] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
-[09Jul2025 22:51:17.186] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
-[09Jul2025 22:51:20.811] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.935554ms
-[09Jul2025 22:51:20.821] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 1 ms
-[09Jul2025 22:51:20.822] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 1 ms
-[09Jul2025 22:51:20.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Jul2025 22:51:20.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Jul2025 22:51:20.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Jul2025 22:51:20.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Jul2025 22:51:21.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Jul2025 22:51:21.153] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Jul2025 22:51:21.228] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Jul2025 22:51:21.229] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Jul2025 22:51:21.229] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Jul2025 22:51:21.230] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Jul2025 22:51:21.492] [Server thread/INFO] [Framework/]: Loading server configs...
-[09Jul2025 22:51:22.097] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[09Jul2025 22:51:22.098] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[09Jul2025 22:51:22.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Jul2025 22:51:22.501] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
-[09Jul2025 22:51:28.431] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
-[09Jul2025 22:51:28.443] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / twilightforest:twilight_forest] with concurrent set.
-[09Jul2025 22:51:28.449] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
-[09Jul2025 22:51:28.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Jul2025 22:51:33.385] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.425] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.472] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.486] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.501] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.524] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.539] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.600] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.619] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.634] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.645] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:33.958] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:34.453] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 22:51:34.953] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[09Jul2025 22:51:35.323] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6870 ms
-[09Jul2025 22:51:35.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.079s)! For help, type "help"
-[09Jul2025 22:51:35.452] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09Jul2025 22:51:35.473] [Server thread/INFO] [corail_recycler/]: 566 recycling recipes loaded
-[09Jul2025 22:51:35.474] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[09Jul2025 22:51:35.474] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[09Jul2025 22:59:59.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e6d5e61[id=<null>,name=Kazuruki,properties={},legacy=false] (/172.23.15.27:56816) lost connection: Disconnected
-[09Jul2025 23:01:48.791] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[09Jul2025 23:01:48.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lion_799[/172.23.99.247:62455] logged in with entity id 1176 at (-31.30000001192093, 66.0, 931.2413579203475)
-[09Jul2025 23:01:48.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 joined the game
-[09Jul2025 23:02:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[09Jul2025 23:02:05.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY PINCHE RATA PUTA<--[HERE]
-[09Jul2025 23:02:16.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion_799 lost connection: Disconnected
-[09Jul2025 23:02:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 left the game
-[09Jul2025 23:05:07.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/172.23.15.27:57221] logged in with entity id 1363 at (442.97212880034914, 73.0, 3285.853589984165)
-[09Jul2025 23:05:07.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
-[09Jul2025 23:05:09.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
-[09Jul2025 23:05:14.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Below animations are missing or don't exist in the server
-
-dualgreatswords:biped/combat/greatsword_dual_auto_1
-dualgreatswords:biped/combat/greatsword_dual_auto_2
-dualgreatswords:biped/combat/greatsword_dual_auto_3
-dualgreatswords:biped/combat/greatsword_dual_auto_4
-dualgreatswords:biped/living/greatsword_dual_idle
-dualgreatswords:biped/skill/greatsword_dual_earthquake
-dualgreatswords:biped/living/greatsword_dual_run
-dualgreatswords:biped/combat/greatsword_dual_airslash
-dualgreatswords:biped/combat/greatsword_dual_dash
-dualgreatswords:biped/living/greatsword_dual_walk
-
-Please check the resource packs that you're missing or unload the packs that the server doesn't have
-[09Jul2025 23:05:14.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
-[09Jul2025 23:08:08.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lion_799[/172.23.99.247:63076] logged in with entity id 1816 at (-31.30000001192093, 66.0, 931.2413579203475)
-[09Jul2025 23:08:08.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 joined the game
-[09Jul2025 23:08:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[09Jul2025 23:08:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAY QUE NO LION SALTE A LA VERGA<--[HERE]
-[09Jul2025 23:08:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[09Jul2025 23:08:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: say<--[HERE]
-[09Jul2025 23:08:24.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] q
-[09Jul2025 23:08:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] SALTE A LA VERGA LION
-[09Jul2025 23:08:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked lion_799: Kicked by an operator
-[09Jul2025 23:08:43.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lion_799 lost connection: Kicked by an operator
-[09Jul2025 23:08:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lion_799 left the game
+[02Aug2025 20:46:27.820] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
+[02Aug2025 20:46:27.824] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[02Aug2025 20:46:31.458] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.250874ms
+[02Aug2025 20:46:31.471] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 3 ms
+[02Aug2025 20:46:31.473] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 1 ms
+[02Aug2025 20:46:31.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Aug2025 20:46:31.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Aug2025 20:46:31.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Aug2025 20:46:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Aug2025 20:46:31.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Aug2025 20:46:31.800] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Aug2025 20:46:31.886] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Aug2025 20:46:31.886] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Aug2025 20:46:31.887] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Aug2025 20:46:31.887] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Aug2025 20:46:32.140] [Server thread/INFO] [Framework/]: Loading server configs...
+[02Aug2025 20:46:32.788] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02Aug2025 20:46:32.789] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02Aug2025 20:46:32.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Aug2025 20:46:33.249] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[02Aug2025 20:46:40.049] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[02Aug2025 20:46:40.064] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[02Aug2025 20:46:40.079] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / twilightforest:twilight_forest] with concurrent set.
+[02Aug2025 20:46:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Aug2025 20:46:45.589] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.614] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.622] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.623] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.624] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.624] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.625] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.626] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.627] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.627] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.628] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:45.629] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:46.084] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:46.883] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:47.083] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 20:46:47.584] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[02Aug2025 20:46:47.915] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7833 ms
+[02Aug2025 20:46:47.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.016s)! For help, type "help"
+[02Aug2025 20:46:48.161] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Aug2025 20:46:48.181] [Server thread/INFO] [corail_recycler/]: 566 recycling recipes loaded
+[02Aug2025 20:46:48.182] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[02Aug2025 20:46:48.183] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[02Aug2025 20:49:25.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Aug2025 20:49:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: players<--[HERE]
+[02Aug2025 20:49:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[02Aug2025 20:49:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[02Aug2025 20:49:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[02Aug2025 20:49:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[02Aug2025 20:49:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[02Aug2025 20:49:28.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[02Aug2025 20:49:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[02Aug2025 20:49:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[02Aug2025 20:49:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[02Aug2025 20:49:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[02Aug2025 20:49:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[02Aug2025 20:49:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[02Aug2025 20:49:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[02Aug2025 20:49:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[02Aug2025 20:49:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[02Aug2025 20:49:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[02Aug2025 20:49:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[02Aug2025 20:49:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[02Aug2025 20:49:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[02Aug2025 20:49:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[02Aug2025 20:49:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[02Aug2025 20:49:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[02Aug2025 20:49:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|artifacts.anglersHat.luckOfTheSeaLevelBonus|artifacts.anglersHat.lureLevelBonus|artifacts.antidoteVessel.enabled|artifacts.antidoteVessel.maxEffectDuration|artifacts.aquaDashers.enabled|artifacts.bunnyHoppers.doCancelFallDamage|artifacts.bunnyHoppers.jumpBoostLevel|artifacts.charmOfSinking.enabled|artifacts.chorusTotem.cooldown|artifacts.chorusTotem.doConsumeOnUse|artifacts.chorusTotem.healthRestored|artifacts.chorusTotem.teleportationChance|artifacts.cloudInABottle.enabled|artifacts.cloudInABottle.sprintJumpHorizontalVelocity|artifacts.cloudInABottle.sprintJumpVerticalVelocity|artifacts.cowboyHat.speedLevel|artifacts.crossNecklace.bonusInvincibilityTicks|artifacts.crossNecklace.cooldown|artifacts.crystalHeart.healthBonus|artifacts.diggingClaws.digSpeedBonus|artifacts.diggingClaws.toolTier|artifacts.eternalSteak.cooldown|artifacts.eternalSteak.enabled|artifacts.everlastingBeef.cooldown|artifacts.everlastingBeef.enabled|artifacts.feralClaws.attackSpeedBonus|artifacts.fireGauntlet.fireDuration|artifacts.flamePendant.cooldown|artifacts.flamePendant.doGrantFireResistance|artifacts.flamePendant.fireDuration|artifacts.flamePendant.strikeChance|artifacts.flippers.swimSpeedBonus|artifacts.goldenHook.experienceBonus|artifacts.heliumFlamingo.flightDuration|artifacts.heliumFlamingo.rechargeDuration|artifacts.kittySlippers.enabled|artifacts.luckyScarf.fortuneBonus|artifacts.nightVisionGoggles.enabled|artifacts.nightVisionGoggles.strength|artifacts.noveltyDrinkingHat.drinkingDurationMultiplier|artifacts.noveltyDrinkingHat.eatingDurationMultiplier|artifacts.obsidianSkull.fireResistanceCooldown|artifacts.obsidianSkull.fireResistanceDuration|artifacts.onionRing.hasteDurationPerFoodPoint|artifacts.onionRing.hasteLevel|artifacts.panicNecklace.cooldown|artifacts.panicNecklace.speedDuration|artifacts.panicNecklace.speedLevel|artifacts.pickaxeHeater.enabled|artifacts.plasticDrinkingHat.drinkingDurationMultiplier|artifacts.plasticDrinkingHat.eatingDurationMultiplier|artifacts.pocketPiston.knockbackStrength|artifacts.powerGlove.attackDamageBonus|artifacts.rootedBoots.doGrowPlantsAfterEating|artifacts.rootedBoots.enabled|artifacts.rootedBoots.hungerReplenishingDuration|artifacts.runningShoes.doIncreaseStepHeight|artifacts.runningShoes.speedBonus|artifacts.scarfOfInvisibility.enabled|artifacts.shockPendant.cooldown|artifacts.shockPendant.doCancelLightningDamage|artifacts.shockPendant.strikeChance|artifacts.snorkel.enabled|artifacts.snorkel.isInfinite|artifacts.snorkel.waterBreathingDuration|artifacts.snowshoes.allowWalkingOnPowderSnow|artifacts.snowshoes.slipperinessReduction|artifacts.steadfastSpikes.enabled|artifacts.steadfastSpikes.knockbackResistance|artifacts.superstitiousHat.lootingLevelBonus|artifacts.thornPendant.cooldown|artifacts.thornPendant.maxDamage|artifacts.thornPendant.minDamage|artifacts.thornPendant.strikeChance|artifacts.umbrella.isGlider|artifacts.umbrella.isShield|artifacts.universalAttractor.enabled|artifacts.vampiricGlove.absorptionChance|artifacts.vampiricGlove.absorptionRatio|artifacts.vampiricGlove.maxHealingPerHit|artifacts.villagerHat.reputationBonus|artifacts.whoopeeCushion.fartChance|blockExplosionDropDecay|canSwitchCombat|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableEntityUI|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doSeasonCycle|doTileDrops|doTraderSpawning|doVanillaAttack|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|epicDrop|fakeLavaSourceConversion|fakeWaterSourceConversion|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|globalStun|hasFallAnimation|initialMode|keepInventory|keepSkills|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|noMobsInBossfight|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|skeletonMoreMelee|snowAccumulationHeight|spawnRadius|spawnStrongerMobs|spectatorsGenerateChunks|stiffComboAttacks|strongerMobsDropEmeralds|strongerMobsMoreEXP|tfEnforcedProgression|tntExplosionDropDecay|universalAnger|waterSourceConversion|weightPenalty)
+[02Aug2025 20:49:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[02Aug2025 20:49:28.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[02Aug2025 20:49:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[02Aug2025 20:49:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[02Aug2025 20:49:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[02Aug2025 20:49:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[02Aug2025 20:49:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[02Aug2025 20:49:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[02Aug2025 20:49:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[02Aug2025 20:49:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[02Aug2025 20:49:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[02Aug2025 20:49:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[02Aug2025 20:49:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[02Aug2025 20:49:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[02Aug2025 20:49:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[02Aug2025 20:49:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[02Aug2025 20:49:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[02Aug2025 20:49:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[02Aug2025 20:49:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[02Aug2025 20:49:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[02Aug2025 20:49:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[02Aug2025 20:49:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[02Aug2025 20:49:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[02Aug2025 20:49:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[02Aug2025 20:49:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[02Aug2025 20:49:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[02Aug2025 20:49:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[02Aug2025 20:49:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[02Aug2025 20:49:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[02Aug2025 20:49:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[02Aug2025 20:49:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[02Aug2025 20:49:28.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[02Aug2025 20:49:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[02Aug2025 20:49:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[02Aug2025 20:49:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /balm (dev|export)
+[02Aug2025 20:49:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /epicfight (mode|skill|stamina)
+[02Aug2025 20:49:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tacz (attachment_lock|debug|dummy|overwrite|reload|hide_tooltip_part|convert|config)
+[02Aug2025 20:49:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /season (set|get)
+[02Aug2025 20:49:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /twilightforest [center|conquer|genbook|info|biomepng|shield]
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tf -> twilightforest
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tffeature -> twilightforest
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[02Aug2025 20:49:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recycler [discover_recipe|discover_mod|remove_recipe|export_crafting_recipes|add_recipe]
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sc (bug|connect|convert|dump|help|owner)
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /securitycraft (bug|connect|convert|dump|help|owner)
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbacceptteleport [<target>]
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbgui
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbknowledge [<player>]
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbalignment [<player>]
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[02Aug2025 20:49:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrequestteleport [<target>]
+[02Aug2025 20:49:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrestoreinventory [<player>]
+[02Aug2025 20:49:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrevivefamiliar [<player>]
+[02Aug2025 20:49:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbshowlastgrave [<player>]
+[02Aug2025 20:49:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbsiege [start|stop]
+[02Aug2025 20:49:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[02Aug2025 20:49:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
+[02Aug2025 20:49:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vampirism (bind-action|currentDimension|eye|fang|glowingEye|level|lord-level|levelup|title-gender|bloodBar|config|skills|modifyMinionInventory)
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vampirism-test (info-entities|marker|entity|printEntityNBT|biome|makeVillagerAgressive|resetActions|tent|vampireBook|runTests|garlicCheck|setSwordCharged|setSwordTrained|spawnTestAnimal|heal|village|minion|tasks|forcePlayerSync|giveAccessories|summonDummy|banner)
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /vampirism-integrations (loaded|changelog)
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /godly-vampirism apply
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /flib (help|debug|tpx|health|hunger|hearts|scoreboard|gamemode|attribute)
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cyclic (home|gethome|health|hearts|scoreboard|attribute|gamemode|gravity|glowing|hunger|dev|ping|todo)
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cucumber fillenergy (block|hand)
+[02Aug2025 20:49:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clearcosarmor [<targets>]
+[02Aug2025 20:49:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /coshat
+[02Aug2025 20:49:28.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
+[02Aug2025 20:49:39.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
