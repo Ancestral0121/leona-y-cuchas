@@ -289,3 +289,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Aug2025 01:23:11.996] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sereneseasons:main,glitchcore:config_sync] rejected their client side version number
 [03Aug2025 01:23:11.996] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [03Aug2025 01:23:12.044] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32474ff0[id=<null>,name=Cucholindo,properties={},legacy=false] (/172.23.7.92:64902) lost connection: Connection closed - mismatched mod channel list
+[03Aug2025 01:47:09.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
